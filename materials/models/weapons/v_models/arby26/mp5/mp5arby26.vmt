@@ -1,0 +1,23 @@
+VertexLitGeneric
+{
+$basetexture "models\weapons\v_models\arby26\mp5\mp5_d"
+$bumpmap "models\weapons\v_models\arby26\mp5\mp5_ns"
+//$phongexponent "30.0"
+$phongexponenttexture "models\weapons\v_models\arby26\mp5\mp5_g"
+$phong 1
+$phongboost "2.0"
+$phongalbedoboost 500
+$phongfresnelranges "[0.5 1.1 5.0]"
+//$basemapalphaphongmask 1
+$phongalbedotint 1
+//$phongdisablehalflambert 1 csgo
+$envmap env_cubemap
+//$basemapalphaenvmapmask 1
+$normalmapalphaenvmapmask 1
+$envmapfresnel 1
+$envmaptint "[.015 .017 .03]"
+//$envmaptint "[0.31 0.37 0.45]"
+
+//$ambientocclusion 1
+//$AmbientOcclTexture "models\weapons\v_models\arby26\mp5\mp5_ao" 
+}

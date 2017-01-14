@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$decal"	"1"
+	"$basetexture" "tr_shootingrange_csco/trrm_sign5"
+	"$surfaceprop" "metal"
+}

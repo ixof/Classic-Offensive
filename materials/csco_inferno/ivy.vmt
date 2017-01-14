@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_cbble/ivy_cbble01full"
+	"$surfaceprop" "dirt"
+	"$alphatest" 1
+	"%keywords" "cstrike"
+}

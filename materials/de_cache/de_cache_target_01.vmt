@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+        "$basetexture" 	"de_cache/de_cache_target_01"
+	"$surfaceprop" 	"wood"
+	"%keywords" 	"penE"
+}

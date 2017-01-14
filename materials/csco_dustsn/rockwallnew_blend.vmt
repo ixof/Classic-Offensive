@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "csco_dustsn/cliff_snow"
+	"$basetexture2" "nature/vostok_snow"
+	"$blendmodulatetexture" "nature/tibet_blendmod_snow_rock"
+	"$surfaceprop" "concrete"
+	"%keywords" "cstrike" 
+	$basetexturetransform "center .5 .5 scale 0.27 0.27 rotate 0 translate 0 0"
+}

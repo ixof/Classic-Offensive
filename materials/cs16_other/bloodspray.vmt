@@ -1,0 +1,5 @@
+"spritecard"
+{
+	"$basetexture" "cs16_other/bloodspray"
+	$DEPTHBLEND 0
+}

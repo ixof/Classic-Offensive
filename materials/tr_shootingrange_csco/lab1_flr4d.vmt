@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tr_shootingrange_csco/lab1_flr4d"
+	"$surfaceprop" "tile"
+    "$detail" "detail/dt_tile01"
+	"$detailscale" "7"
+	"$detailblendfactor" 2.8
+	"$detailblendmode" 0
+}

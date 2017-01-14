@@ -1,0 +1,8 @@
+"spritecard"
+{
+	"$basetexture" "cs16_explosion/x_smoke1"
+	"$additive" 1
+	"$translucent" 1
+	"$overbrightfactor" "3.5"
+	"$color" "[0.2 0.2 0.2]"
+}

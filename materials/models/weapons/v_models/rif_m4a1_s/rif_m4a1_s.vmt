@@ -1,0 +1,25 @@
+
+	"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\v_models\rif_m4a1_s\rif_m4a1_s"
+	"$phongexponenttexture" "models\weapons\v_models\rif_m4a1_s\rif_m4a1_s_exponent"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.07 0.07 0.07 ]"
+
+	"$phong"     "1"
+	"$phongexponent"  "24"
+	"$phongboost"   "0.7"
+	"$phongfresnelranges"      "[1 3 6]"
+	"$phongtint"                   "[0.8 1.1 1.3]" 
+	"$phongexponenttexture" 	"models\weapons\v_models\seph m4\v_m4a1_main_exponent"
+	"$phongalbedotint"		"1"
+        	"$phongalbedoboost" "38"
+
+	"$rimlight" 	"1"
+	"$rimlightexponent" 	"88"	
+	"$rimlightboost"	"0.2"
+	"$rimmask" 	"1"
+}
+
+

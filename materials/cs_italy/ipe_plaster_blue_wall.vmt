@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+$baseTexture "cs_italy/ipe_plaster_blue_wall"
+$surfaceprop plaster
+}

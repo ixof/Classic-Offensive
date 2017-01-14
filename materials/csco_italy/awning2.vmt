@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "csco_italy/awning2"
+	"$surfaceprop" "carpet"
+	"$nocull" 1
+	"$translucent" 0
+}

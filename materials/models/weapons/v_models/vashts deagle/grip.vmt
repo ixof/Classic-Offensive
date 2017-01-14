@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/weapons/v_models/Vashts Deagle/Grip"
+	"$bumpmap" "models/weapons/v_models/Vashts Deagle/Grip norm"	
+     	"$phong" "1"
+      "$phongboost" "1"
+      "$phongfresnelranges" "[2 4 6]"     	
+}
+      
+	

@@ -1,0 +1,2873 @@
+
+"phoenix.affirmative01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_affirm.wav"
+}
+
+"phoenix.affirmative02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_affirm.wav"
+}
+
+"phoenix.affirmative03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_affirm.wav"
+}
+
+"phoenix.agree01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"phoenix.agree02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"phoenix.agree03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"phoenix.agree04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"phoenix.agree06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"phoenix.agree07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"phoenix.blinded01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.blinded05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.blinded06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.bombtickingdown01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\getout.wav"
+}
+
+"phoenix.bombtickingdown02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"phoenix.bombtickingdown03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"phoenix.bombtickingdown04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"phoenix.bombtickingdown05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"phoenix.clear01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\clear.wav"
+}
+
+"phoenix.clear02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\clear.wav"
+}
+
+"phoenix.clear03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\clear.wav"
+}
+
+"phoenix.clearedarea01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\clear.wav"
+}
+
+"phoenix.clearedarea02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\clear.wav"
+}
+
+"phoenix.clearedarea03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\clear.wav"
+}
+
+"phoenix.coveringfriend01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fireassis.wav"
+}
+
+"phoenix.coveringfriend02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fireassis.wav"
+}
+
+"phoenix.coveringfriend03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fireassis.wav"
+}
+
+"phoenix.coverme01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_coverme.wav"
+}
+
+"phoenix.coverme02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_coverme.wav"
+}
+
+"phoenix.coverme03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_coverme.wav"
+}
+
+"phoenix.defendingbombsitea01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.defendingbombsitea02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.defendingbombsitea03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.defendingbombsitea04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.defendingbombsiteb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.defendingbombsiteb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.defendingbombsiteb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.defendingbombsiteb04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.defendingbombsiteb05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.disagree01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"phoenix.disagree02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"phoenix.disagree03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"phoenix.disagree05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"phoenix.disagree06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"phoenix.enemydown01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"phoenix.enemydown02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"phoenix.enemydown03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"phoenix.enemydown04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"phoenix.enemydown05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"phoenix.enemydown06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"phoenix.enemydown07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"phoenix.enemydown08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"phoenix.enemydown09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"phoenix.followingfriend01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\takepoint.wav"
+}
+
+"phoenix.followingfriend02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\takepoint.wav"
+}
+
+"phoenix.followingfriend03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\takepoint.wav"
+}
+
+"phoenix.followingfriend04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\takepoint.wav"
+}
+
+"phoenix.followingfriend05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\takepoint.wav"
+}
+
+"phoenix.friendlyfire01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.friendlyfire02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.friendlyfire03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.friendlyfire04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.friendlyfire05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.friendlyfire06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.friendlyfire07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtodefendbombsite01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtodefendbombsite02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtodefendbombsite03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtodefendbombsite04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoguardhostageescapezone01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoguardhostageescapezone02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoguardhostageescapezone03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoplantbomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoplantbomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoplantbomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoplantbomba01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoplantbomba02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoplantbomba03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoplantbombb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.goingtoplantbombb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.heardnoise01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.heardnoise02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.heardnoise03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.heardnoise05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.help01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\hitassist.wav"
+}
+
+"phoenix.help02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"phoenix.help03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"phoenix.help04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"phoenix.help05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"phoenix.incombat01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.incombat02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.incombat03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.incombat04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.incombat05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.incombat06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.incombat07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.incombat08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.incombat09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.incombat10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.inposition01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_inpos.wav"
+}
+
+"phoenix.inposition02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_inpos.wav"
+}
+
+"phoenix.inposition03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_inpos.wav"
+}
+
+"phoenix.killedfriend01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.killedfriend02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.killedfriend03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.killedfriend04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.killedfriend05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lastmanstanding01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lastmanstanding02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lastmanstanding03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lastmanstanding04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lastmanstanding05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lastmanstanding06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lastmanstanding07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lostenemy01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lostenemy02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lostenemy03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.lostenemy04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.negative01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"phoenix.negative02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"phoenix.negative03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"phoenix.negative04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"phoenix.negativeno05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"phoenix.niceshot01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.niceshot13"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.onarollbrag01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag13"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag14"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.onarollbrag15"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.oneenemyleft04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.oneenemyleft05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"phoenix.oneenemyleft06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.oneenemyleft08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.oneenemyleft10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.oneenemyleft11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.oneenemyleft12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.onmyway01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.onmyway02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.onmyway03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.onmyway04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.peptalk01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.peptalk02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.peptalk03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.peptalk07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.pinneddown01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.pinneddown02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.pinneddown03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.plantingbomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.plantingbomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.plantingbomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.plantingbomb04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radio_enemyspotted01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"phoenix.radio_enemyspotted02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"phoenix.radio_enemyspotted03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"phoenix.radio_enemyspotted04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"phoenix.radio_followme01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"phoenix.radio_followme02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"phoenix.radio_followme03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"phoenix.radio_followme04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"phoenix.radio_followme05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"phoenix.radio_followme06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"phoenix.radio_letsgo01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_letsgo02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_letsgo03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_letsgo04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_letsgo05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_letsgo06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_letsgo07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_letsgo08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_letsgo09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_locknload01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_locknload02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\go.wav"
+}
+
+"phoenix.radio_locknload03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\locknload.wav"
+}
+
+"phoenix.radio_locknload04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\moveout.wav"
+}
+
+"phoenix.radio_locknload05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\go.wav"
+}
+
+"phoenix.radio_locknload06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_locknload07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\locknload.wav"
+}
+
+"phoenix.radio_locknload08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\moveout.wav"
+}
+
+"phoenix.radio_locknload09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\go.wav"
+}
+
+"phoenix.radio_locknload10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"phoenix.radio_locknload11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\locknload.wav"
+}
+
+"phoenix.radio_locknload12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\moveout.wav"
+}
+
+"phoenix.radio_needbackup01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"phoenix.radio_needbackup02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"phoenix.radio_needbackup03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"phoenix.radio_needbackup05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"phoenix.radio_needbackup06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"phoenix.radio_takingfire01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\hitassist.wav"
+}
+
+"phoenix.radio_takingfire02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\hitassist.wav"
+}
+
+"phoenix.radio_takingfire03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fireassis.wav"
+}
+
+"phoenix.radio_takingfire04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fireassis.wav"
+}
+
+"phoenix.radio_takingfire05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fireassis.wav"
+}
+
+"phoenix.radio_takingfire06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fireassis.wav"
+}
+
+"phoenix.radiobotendclean01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendclean02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendclean03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendclean04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendclean05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendclean06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendclean07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendclean08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendsolid01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendsolid02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendsolid03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendsolid04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendsolid05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotendsolid06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.radiobotfallback01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\getout.wav"
+}
+
+"phoenix.radiobotfallback02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fallback.wav"
+}
+
+"phoenix.radiobotfallback03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fallback.wav"
+}
+
+"phoenix.radiobothold01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\position.wav"
+}
+
+"phoenix.radiobothold02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\position.wav"
+}
+
+"phoenix.radiobothold03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\position.wav"
+}
+
+"phoenix.radiobotregroup01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\regroup.wav"
+}
+
+"phoenix.radiobotregroup02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\regroup.wav"
+}
+
+"phoenix.radiobotregroup03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\regroup.wav"
+}
+
+"phoenix.reportingin01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_reportingin.wav"
+}
+
+"phoenix.reportingin02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_reportingin.wav"
+}
+
+"phoenix.reportingin03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_reportingin.wav"
+}
+
+"phoenix.reportingin04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_reportingin.wav"
+}
+
+"phoenix.requestreport01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_reportin.wav"
+}
+
+"phoenix.requestreport02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_reportin.wav"
+}
+
+"phoenix.requestreport03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_reportin.wav"
+}
+
+"phoenix.scaredemote01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.scaredemote02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.scaredemote03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.scaredemote04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.scaredemote05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.scaredemote06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.scaredemote07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.scaredemote08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.sniperkilled01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.sniperkilled02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.sniperkilled03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.sniperkilled04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.sniperwarning01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.sniperwarning02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.sniperwarning03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.spottedloosebomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.spottedloosebomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.spottedloosebomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.spottedloosebomb04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.spottedloosebomb05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.spottedloosebomb06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.t_death01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.t_death02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.t_death03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.t_death04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.t_death05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.t_decoy01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_decoy02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_decoy03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_flashbang01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_flashbang02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_flashbang03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_grenade02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_grenade04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_grenade05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_molotov01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_molotov02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_molotov03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_molotov04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_molotov05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_molotov07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_smoke01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_smoke02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.t_smoke03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"phoenix.thanks01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_getinpos.wav"
+}
+
+"phoenix.thanks02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_getinpos.wav"
+}
+
+"phoenix.thanks04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_getinpos.wav"
+}
+
+"phoenix.threeenemiesleft01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.threeenemiesleft02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.threeenemiesleft04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.threeenemiesleft05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_office04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_office05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_office06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source103"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source104"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source105"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source15"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source16"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source17"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source18"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source19"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source20"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source34"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source35"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source36"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source37"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source38"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source39"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source40"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source41"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source42"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source43"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source44"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source45"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source52"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source53"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source54"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source55"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source56"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source57"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source62"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source63"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source64"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source82"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source83"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_cs_source84"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_de_dust13"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_de_dust14"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_de_dust15"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_de_dust16"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_de_dust17"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_de_dust18"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_de_dust22"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_de_dust23"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.tmap_de_dust24"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.twoenemiesleft01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.twoenemiesleft02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.twoenemiesleft03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.twoenemiesleft04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.twoenemiesleft05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.waitinghere01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.waitinghere02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"phoenix.waitinghere03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+

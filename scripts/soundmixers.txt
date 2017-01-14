@@ -1,0 +1,202 @@
+// Halflife 2 custom sound mixers.
+// These Sound Mixers are referenced by name from Soundscapes, and are used to provide
+// custom volume control over various sound categories, called 'mix groups'
+
+// "GROUPRULES" specifies the rules for inclusion of a sound in a mix group.
+// Rules are checked sequentially (from top to bottom). All fields must match
+// in a row in order for a sound to match the group.  A sound my be included 
+// in up to 8 mix groups.
+
+// LIMITS: 
+//		up to 64 unique mix groups
+//		up to 76 group rules entries
+//		up to 32 sound mixers
+//		all strings are limited to 31 characters!
+
+// NOTE2: at runtime, you can display the classname of the sound source by
+// setting snd_showclassname 1 in the console.
+
+// NOTE3: main character dialog during critical scenes is ducked using a separate code path which, when
+// active, temporarilly disables mixer ducking (prevent double ducking).  
+// Lower priority sounds are ducked by higher priority sounds, if "is ducked" is enabled. 
+// Only sounds with "causes ducking" enabled can cause a lower priority sound to be ducked.
+
+"MixGroups"
+{
+// NOTE: order these from least general to most general
+
+//	directory or .wav	classname															  		Causes  	Duck to  	Ducker
+//	group name				name substring		substring	chan			sndlvl_min	sndlvl_max	priority Is Ducked	Ducking	Percent	Threshold
+//  ---------				------------------	---------	-----------		----------	----------	-------- --------	-------	-------	 ---------
+
+	"voip"					"?VoiceSfx"			""			""			""		""	"60"		"0"	"0"		"100"		"40"
+
+	"gamestartup"			"gamestartup"		""			""			""		""	"50"		"0"	"0"		"100"		"40"
+
+	"UI"					"ui/"				""			""			""		""	"50"		"0"	"0"		"100"		"40"
+
+ 	"Explosions"				"explo"			""			""			""		""	"50"		"0"	"0"		"100"		"40"
+ 	"ExplosionsDistant"		"asdfaslj"			""			""			""		""	"50"		"0"	"0"		"100"		"40"
+ 	"BulletImpacts"			"impact_bullet"		""			""			""		""	"50"		"0"	"0"		"100"		"40"
+ 	"BulletRicochets"			"weapons/fx/rics"		""			""			""		""	"50"		"0"	"0"		"100"		"40"
+	
+	"DistWeapons"			".SingleDistant"		""		""			""		""	"50"		"0"	"0"		"100"		"40"
+	"FirstWeapons"			".Single"			"localPlayer"	""			""		""	"50"		"0"	"0"		"100"		"40"
+	"ThirdWeapons"			".Single"			""		""			""		""	"50"		"0"	"0"		"100"		"40"
+	"LoudWeapons"			".Single"			""		""			""		""	"50"		"0"	"0"		"100"		"40"
+
+	"Draw"				"_draw"			""			""			""		""	"0"		"0"	"0"		"100"		"40"
+	"Weapons"				"weapons/"			""			""			""		""	"0"		"0"	"0"		"100"		"40"
+	
+	"Bells"				"brass_bell_"			""			""			""		""	"0"		"0"	"0"		"100"		"40"
+	"Balloon"				"Balloon_pop_"			""			""			""		""	"0"		"0"	"0"		"100"		"40"
+	"Fireworks"				"firewerks_"			""			""			""		""	"0"		"0"	"0"		"100"		"40"
+	"Rain"				"_rain"			""			""			""		""	"0"		"0"	"0"		"100"		"40"
+	"HelicopterStart"				"heli_pass_quick1"			""			""			""		""	"0"		"0"	"0"		"100"		"40"
+	"train_pass_overpass"				"train_pass_"			""			""			""		""	"0"		"0"	"0"		"100"		"40"
+
+	"Ambient_atmosphere"		    "ambient/atmosphere"	       		""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_machines"		       	"ambient/machines"	       		""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_nature"		       	"ambient/nature"	       		""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_nuke"		       	 	"ambient/nuke"	       				""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_office"		        "ambient/office"	       		""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_overhead"		        "ambient/overhead"	       		""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_tones"		       	 	"ambient/tones"	       				""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_weather"		       	"ambient/weather"	       		""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_wind"		       	 	"ambient/wind"	       				""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_misc"		       	 	"ambient/misc"	       				""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_playonce"		       	"ambient/playonce"	       				""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	"Ambient_train"		       		"train_pass_far"	       				""			""			""		""	"0"		"0"	"0"		"0"		"0"
+	
+	"NewPlayerFootsteps"		"player/footsteps/new"	       				""			""			""		""	"0"		"0"	"0"		"0"		"0"
+ 	"PlayerFootsteps"			"footsteps/"        	"localPlayer" 	""			""		""	"50"		"0"	"0"		"100"		"40"
+ 	"GlobalFootsteps"			"footsteps/"        	""			""			""		""	"50"		"0"	"0"		"100"		"40"
+
+	"SelectedMusic"			"selected_"			""			""			""		""	"25"		"0"	"0"		"75"		"40"
+	"BuyMusic"				"startround_"		""			""			""		""	"25"		"0"	"0"		"75"		"40"
+	"DuckingMusix"			"asdadaf"			""			""			""		""	"25"		"0"	"0"		"75"		"40"
+	"Music"				"music/"			""			""			""		""	"25"		"0"	"0"		"75"		"40"
+	"Commander"			"commander/"		""			""			""		""	"25"		"0"	"0"		"75"		"40"
+	"Dialog"				"vo/"				""			""			""		""	"60"		"0"	"0"		"100"		"20"
+	"Radio"				"radio"			""			""			""		""	"60"		"0"	"0"		"100"		"20"
+	"Bot"					"bot/"			""			""			""		""	"60"		"0"	"0"		"100"		"20"
+
+	"All"					""				""			""			""		""	"50"		"0"	"0"		"100"		"40"
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+
+"SoundMixers"
+{
+	"Default_Mix"
+	{
+//      mixgroup                	vol.  level  dsp
+        
+
+		"voip"                    	"0.8" "1.0" "0.0" "0.0" "0.0"
+
+        "gamestartup" 		"0.2" "1.0" "1.0"
+        "UI"                    	"0.6" "1.0" "1.0"
+        
+        "BulletImpacts"            "4.0" "1.0" "0.0"
+        "BulletRicochets"       	"5.0" "1.0" "0.0"
+   
+		"Draw"			"0.0" "1.0 "1.0"
+
+        "Explosions"            "1.0" "1.0" "1.0"    
+        "ExplosionsDistant"    	"2.0" "1.0" "1.0"    
+        "DistWeapons"           "2.8" "1.0" "0.0"
+        "FirstWeapons"          "0.31" "1.0" "0.0"
+        "ThirdWeapons"          "0.51" "1.0" "0.0"
+		"LoudWeapons"           "0.9" "1.0" "0.0"
+        "Weapons"               "0.5" "1.0" "1.0"
+        "Bells"               "0.5" "1.0" "1.0"
+        "Balloon"               "0.5" "1.0" "1.0"
+        "Fireworks"               "0.5" "1.0" "1.0"
+        "Rain"               "0.5" "1.0" "1.0"
+
+        
+        "PlayerFootsteps"        	"0.2" "1.0" "1.0"
+        "GlobalFootsteps"        	"1.0" "0.9" "0.0"
+		
+        "NewPlayerFootsteps"        "0" "1.0" "1.0"
+		"Weapons_Movement"			"0" "1.0" "1.0"
+        "Ambient_atmosphere"        "0" "1.0" "1.0"
+        "Ambient_machines"          "0" "1.0" "1.0"
+        "Ambient_nature"            "0" "1.0" "1.0"
+        "Ambient_nuke"              "0" "1.0" "1.0"
+        "Ambient_office"            "0" "1.0" "1.0"
+        "Ambient_overhead"          "0" "1.0" "1.0"
+        "Ambient_tones"             "0" "1.0" "1.0"
+        "Ambient_weather"           "0" "1.0" "1.0"
+        "Ambient_wind"              "0" "1.0" "1.0"
+        "Ambient_misc"              "0" "1.0" "1.0"
+        "Ambient_playonce"              "0" "1.0" "1.0"
+        "Ambient_train"              "0" "1.0" "1.0"
+      
+
+        "SelectedMusic"           "0.6" "1.0" "1.0"
+        "BuyMusic"                	"0.8" "1.0" "1.0"
+        "DuckingMusix"            	"0.8" "1.0" "1.0"
+        "Music"                    	"0.8" "1.0" "0.0"
+        "Commander"               "0.3" "1.0" "0.0"
+        "Dialog"                	"0.3" "1.0" "0.0"
+        "Radio"                    	"0.4" "1.0" "1.0"
+        "Bot"                    	"0.3" "1.0" "0.0"
+        
+        "All"                    	"0.6" "1.0" "1.0"
+
+
+	}
+}
+
+"MixLayers"
+{
+	"SelectedMusicLayer"
+	{
+		"SelectedMusic"		"1.0" "1.0" "1.0" "1.0" "0.0"
+		"BuyMusic"		    "1.0" "1.0" "1.0" "1.0" "0.0"
+		"UI"		        "1.0" "1.0" "1.0" "1.0" "0.0"
+	}
+	"DuckingMusixLayer"
+	{
+		"DuckingMusix"		"1.0" "1.0" "1.0" "0.65" "0.0"
+		"Music"		        "0.3" "1.0" "1.0" "0.0" "0.0"
+		"Commander"		     "1.0" "1.0" "1.0" "0.8" "0.0"
+		"Dialog"	         "1.0" "1.0" "1.0" "0.8" "0.0"
+		"Radio"	             "1.0" "1.0" "1.0" "0.8" "0.0"
+		"Bot"    	         "1.0" "1.0" "1.0" "0.8" "0.0"
+	}
+
+	
+// 	"BuyMusicLayer"
+// 	{
+		
+// 		"BuyMusic"		    "1.0" "1.0" "1.0" "0.85" "0.0"
+// 		"Music"		        "1.0" "1.0" "1.0" "0.85" "0.0"
+// 		"Commander"		    "1.0" "1.0" "1.0" "0.85" "0.0"
+// 		"Dialog"		    "1.0" "1.0" "1.0" "0.85" "0.0"
+// 		"voip"		        "1.0" "1.0" "1.0" "0.85" "0.0"
+// 		"Radio"		        "1.0" "1.0" "1.0" "0.85" "0.0"
+// 		"Bot"		        "1.0" "1.0" "1.0" "0.85" "0.0"
+// 		"UI"		        "1.0" "1.0" "1.0" "0.85" "0.0"
+
+// 	}
+}
+
+"LayerTriggers"
+{
+//	"BuyMusicLayer" "BuyMusic" "0.0" "1.0" "0.0"   "0.00"
+	"SelectedMusicLayer" "SelectedMusic" "0.0" "1.0" "0.0"   "0.50"
+	"DuckingMusixLayer" "DuckingMusix" "0.0" "1.0" "0.0"   "0.00"
+}
+
+

@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "csco_dustsn/tilefloor01_classic"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "de_dust/tilefloor01_normal"
+	"%keywords" "cstrike" 
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "csco_italy/towel_red"
+	"$nocull" 1
+}

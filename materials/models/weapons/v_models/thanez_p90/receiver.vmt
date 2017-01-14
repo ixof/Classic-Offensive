@@ -1,0 +1,14 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\Thanez_P90\Receiver"
+	"$bumpmap" 	"models\weapons\v_models\Thanez_P90\Receiver_Normal"
+ 	"$envmap"	"env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" 	"0"
+ 	"$phong" "1"
+	"$phongexponent" "32"
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 6 12]"
+	"$envmaptint" 		"[.03 .03 .03]"
+	"$phongalbedotint" "1"
+}

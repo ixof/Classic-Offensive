@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tr_shootingrange_csco/metal_securedoor"
+	"$bumpmap" "tr_shootingrange_csco/metal_securedoor_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$surfaceprop" "metal"
+	"$envmaptint" "[ .25 .25 .25 ]"
+}

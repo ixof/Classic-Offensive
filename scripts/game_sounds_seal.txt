@@ -1,0 +1,2722 @@
+
+"seal.affirmative01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_affirm.wav"
+}
+
+"seal.affirmative02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_affirm.wav"
+}
+
+"seal.affirmative03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_affirm.wav"
+}
+
+"seal.affirmative05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"seal.affirmative06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"seal.agree01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"seal.agree02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"seal.agree03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"seal.agree05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"seal.agree06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\roger.wav"
+}
+
+"seal.blinded01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.blinded02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.blinded03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.blinded04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.bombsiteclear01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.bombsiteclear02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.bombsiteclear03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.bombtickingdown01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.bombtickingdown02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.bombtickingdown03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.bombtickingdown04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.clearedarea01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\clear.wav"
+}
+
+"seal.clearedarea02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\clear.wav"
+}
+
+"seal.clearedarea03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\clear.wav"
+}
+
+"seal.clearedarea04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\clear.wav"
+}
+
+"seal.commanderdown01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.commanderdown02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.commanderdown03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.coveringfriend01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fireassis.wav"
+}
+
+"seal.coveringfriend03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fireassis.wav"
+}
+
+"seal.coveringfriend05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fireassis.wav"
+}
+
+"seal.coverme01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_coverme.wav"
+}
+
+"seal.coverme02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_coverme.wav"
+}
+
+"seal.coverme03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_coverme.wav"
+}
+
+"seal.ct_bombexploding01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.ct_bombexploding02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.ct_bombexploding03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.ct_bombexploding04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.ct_bombexploding05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.ct_bombexploding06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.ct_bombexploding07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.ct_bombexploding08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.ct_bombexploding09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.ct_death01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"player\vo\seal\ct_death01.wav"
+}
+
+"seal.ct_death02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"player\vo\seal\ct_death02.wav"
+}
+
+"seal.ct_death03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"player\vo\seal\ct_death03.wav"
+}
+
+"seal.ct_death04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"player\vo\seal\ct_death04.wav"
+}
+
+"seal.ct_death05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"player\vo\seal\ct_death05.wav"
+}
+
+"seal.ct_decoy01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_decoy02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_decoy03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_flashbang01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_flashbang02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_flashbang03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_grenade01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_grenade02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_grenade03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_grenade04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_molotov01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_molotov02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_molotov03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_smoke01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_smoke02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+"seal.ct_smoke03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_fireinhole.wav"
+}
+
+
+"seal.defusingbomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.defusingbomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.defusingbomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.defusingbomb04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.defusingbomb05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.disagree01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"seal.disagree02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"seal.disagree03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"seal.disagree04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"seal.disagree05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"seal.enemydown01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.enemydown12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\enemydown.wav"
+}
+
+"seal.followingfriend01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\takepoint.wav"
+}
+
+"seal.followingfriend02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\takepoint.wav"
+}
+
+"seal.followingfriend03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\takepoint.wav"
+}
+
+"seal.followingfriend04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\takepoint.wav"
+}
+
+"seal.friendlyfire01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.friendlyfire02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.friendlyfire03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.friendlyfire04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.friendlyfire05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.friendlyfire06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.friendlyfire07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.goingtoguardloosebomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.goingtoguardloosebomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.goingtoguardloosebomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.guardingloosebomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.guardingloosebomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.guardingloosebomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.heardnoise01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.heardnoise02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.heardnoise03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.help01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"seal.help02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"seal.help03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"seal.help04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"seal.incombat01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.incombat12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.inposition01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_inpos.wav"
+}
+
+"seal.inposition02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_inpos.wav"
+}
+
+"seal.inposition04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_inpos.wav"
+}
+
+"seal.killedfriend01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.killedfriend02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.killedfriend03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.killedfriend04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.killedfriend05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.killedfriend06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.killedfriend07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.killedfriend08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.lastmanstanding01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.lastmanstanding02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.lastmanstanding03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.lastmanstanding04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.lastmanstanding05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.lastmanstanding06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.lostenemy01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.lostenemy02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.lostenemy04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.negative01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"seal.negative02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"seal.negative03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"seal.negative04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"seal.niceshot01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.niceshot13"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.noenemiesleft01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.noenemiesleft02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.noenemiesleft03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.noenemiesleft04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.noenemiesleft05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.noenemiesleft06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.noenemiesleftbomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.noenemiesleftbomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.noenemiesleftbomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.noenemiesleftbomb04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.onarollbrag01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag13"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.onarollbrag14"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\stormfront.wav"
+}
+
+"seal.oneenemyleft01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.oneenemyleft02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.oneenemyleft03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.oneenemyleft06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.oneenemyleft08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.oneenemyleft09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.onmyway01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.onmyway02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.onmyway03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.peptalk01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.peptalk02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.peptalk03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.peptalk05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.pinneddown01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.pinneddown02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.pinneddown03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.pinneddown04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.plantedbombplacesafe01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.plantedbombplacesafe02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.plantedbombplacesafe03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radio_enemyspotted01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"seal.radio_enemyspotted02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"seal.radio_enemyspotted03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"seal.radio_enemyspotted05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"seal.radio_enemyspotted06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"seal.radio_enemyspotted09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"seal.radio_enemyspotted10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"seal.radio_enemyspottedcount12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_enemys.wav"
+}
+
+"seal.radio_followme01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"seal.radio_followme02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"seal.radio_followme03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"seal.radio_followme04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"seal.radio_followme05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\followme.wav"
+}
+
+"seal.radio_letsgo01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_letsgo12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_locknload01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\locknload.wav"
+}
+
+"seal.radio_locknload02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\go.wav"
+}
+
+"seal.radio_locknload03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_locknload04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_locknload05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\locknload.wav"
+}
+
+"seal.radio_locknload06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\go.wav"
+}
+
+"seal.radio_locknload07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_locknload08"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\locknload.wav"
+}
+
+"seal.radio_locknload09"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\go.wav"
+}
+
+"seal.radio_locknload10"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_locknload11"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\locknload.wav"
+}
+
+"seal.radio_locknload12"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\moveout.wav"
+}
+
+"seal.radio_locknload13"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\moveout.wav"
+}
+
+"seal.radio_locknload14"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\moveout.wav"
+}
+
+"seal.radio_locknload15"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\go.wav"
+}
+
+"seal.radio_locknload16"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_go.wav"
+}
+
+"seal.radio_locknload17"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\moveout.wav"
+}
+
+"seal.radio_needbackup01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"seal.radio_needbackup02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"seal.radio_needbackup03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_backup.wav"
+}
+
+"seal.radio_takingfire01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\hitassist.wav"
+}
+
+"seal.radio_takingfire02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\hitassist.wav"
+}
+
+"seal.radio_takingfire03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\hitassist.wav"
+}
+
+"seal.radio_takingfire04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\hitassist.wav"
+}
+
+"seal.radio_takingfire05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\hitassist.wav"
+}
+
+"seal.radio_takingfire06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\hitassist.wav"
+}
+
+"seal.radio_takingfire07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\hitassist.wav"
+}
+
+"seal.radiobotendclean01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendclean02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendclean03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendclean04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendclose01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendclose02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendclose03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendclose04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendclose05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendsolid01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendsolid02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendsolid03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotendsolid04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.radiobotfallback01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\getout.wav"
+}
+
+"seal.radiobotfallback02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\getout.wav"
+}
+
+"seal.radiobotfallback03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fallback.wav"
+}
+
+"seal.radiobotfallback06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fallback.wav"
+}
+
+"seal.radiobotfallback07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\fallback.wav"
+}
+
+"seal.radiobothold01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\position.wav"
+}
+
+"seal.radiobothold02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\position.wav"
+}
+
+"seal.radiobothold03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\position.wav"
+}
+
+"seal.radiobotregroup01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\regroup.wav"
+}
+
+"seal.radiobotregroup02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\regroup.wav"
+}
+
+"seal.radiobotregroup03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\regroup.wav"
+}
+
+"seal.radiobotregroup04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\regroup.wav"
+}
+
+"seal.radiobotregroup05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\regroup.wav"
+}
+
+"seal.radiobotreponsenegative06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\negative.wav"
+}
+
+"seal.radiobottime01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.radiobottime02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\blow.wav"
+}
+
+"seal.radiobottime03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\getout.wav"
+}
+
+"seal.radiobottime04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\getout.wav"
+}
+
+"seal.reportingin01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_reportingin.wav"
+}
+
+"seal.reportingin02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_reportingin.wav"
+}
+
+"seal.reportingin03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\ct_reportingin.wav"
+}
+
+"seal.requestreport01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_reportin.wav"
+}
+
+"seal.requestreport02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_reportin.wav"
+}
+
+"seal.requestreport03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_reportin.wav"
+}
+
+"seal.scaredemote01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.scaredemote02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.scaredemote03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.scaredemote04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.sniperkilled01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.sniperkilled02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.sniperkilled03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.sniperwarning01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.sniperwarning02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.sniperwarning03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedbomber01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedbomber02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedbomber03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedbomber04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedbomber05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedbomber06"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedloosebomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedloosebomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedloosebomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedloosebomb04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.spottedloosebomb05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.thanks01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_getinpos.wav"
+}
+
+"seal.thanks02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_getinpos.wav"
+}
+
+"seal.thanks03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"radio\com_getinpos.wav"
+}
+
+"seal.theypickedupthebomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.theypickedupthebomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.theypickedupthebomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.threeenemiesleft01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.threeenemiesleft04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.threeenemiesleft07"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.twoenemiesleft01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.twoenemiesleft02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.twoenemiesleft03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.twoenemiesleft04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.twoenemiesleft05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.waitingforhumantodefusebomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.waitingforhumantodefusebomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.waitingforhumantodefusebomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.waitingforhumantodefusebomb04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.waitinghere01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.waitinghere02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.waitinghere03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.waitinghere04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.whereisthebomb01"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.whereisthebomb02"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.whereisthebomb03"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.whereisthebomb04"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+
+"seal.whereisthebomb05"
+{
+		"channel"		"CHAN_STATIC"
+		"volume"	"1"
+		"soundlevel" "0"
+		"wave"		"null.wav"
+}
+

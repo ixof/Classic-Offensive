@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\rif_aug\rec"
+	"$bumpmap" "models\weapons\v_models\rif_aug\rec_normal"
+	"$phong" "1"
+	"$phongexponent" "100"
+	"$phongboost" "2.7"	
+	"$phongfresnelranges"	"[0.25 0.25 .5]"
+}

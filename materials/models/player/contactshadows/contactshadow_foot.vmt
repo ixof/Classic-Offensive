@@ -1,0 +1,5 @@
+vertexlitgeneric
+{
+	$basetexture models\player\contactshadows\null
+	$additive 1
+}

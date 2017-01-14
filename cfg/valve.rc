@@ -1,0 +1,21 @@
+// load the base configuration
+exec default.cfg
+
+// Setup custom controller (fkin peasants)
+exec joystick.cfg
+
+// run cfgs from the mod
+exec cs16_settings.cfg
+exec autoexec.cfg
+exec autoexec_csco.cfg
+exec csco_alias.cfg
+
+// removes some CS:GO crap
+mp_backup_round_file_pattern ""
+player_competitive_maplist_8_6_0_DFED41DC "NONE"
+
+
+//
+// stuff command line statements
+//
+stuffcmds

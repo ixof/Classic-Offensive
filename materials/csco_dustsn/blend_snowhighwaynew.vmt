@@ -1,0 +1,21 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "csco_dustsn/ground_tilec_snow_blend_diffuse"
+	
+	"$blendmodulatetexture" "nature/tibet_blendmod_snow_rock"
+	
+	"$basetexture2" "nature/vostok_snow"
+	
+
+	"$bumpmap" "de_mirage/ground/ground_tilec_normal"
+	"$bumpmap2" "de_mirage/ground/ground_tilef_normals"
+	"$detail" 				"detail\noise_detail_01"
+	"$detailscale" 			"[ 8 8 ]"
+	"$detailblendfactor" 	"0.25"
+
+	"$bumpscale" "0.1"
+
+	
+	$surfaceprop rock
+	$surfaceprop2 sand
+}

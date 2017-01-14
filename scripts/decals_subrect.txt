@@ -1,0 +1,321 @@
+// Decal definitions, format is 
+//   decalname weight
+//   where weight is used to randomly selected a decal to apply from within the group
+
+// This is just an entry to map material types to "impact.xxx"
+"TranslationData"
+{
+	"-"			""  // don't decal this surface
+
+	"C"			"Impact.Concrete"
+	"D"			"Impact.Dirt"
+	"F"			"Impact.Flesh"
+	"J"			"Impact.Grass"
+	"K"			"Impact.Snow"
+	"L"			"Impact.Plastic"
+	"M"			"Impact.Metal"
+	"N"			"Impact.Sand"
+	"O"			"Impact.Leaves"
+	"P"			"Impact.Computer"
+	"Q"			"Impact.Asphalt"
+	"R"			"Impact.Brick"
+	"T"			"Impact.Tile"
+	"U"			"Impact.Cardboard"
+	"V"			"Impact.Vent"
+	"W"			"Impact.Wood"
+	"Y"			"Impact.Glass"
+//	"1"			"Impact.Clay"
+	"2"			"Impact.Plaster"
+	"3"			"Impact.Rock"
+	"4"			"Impact.Rubber"
+	"5"			"Impact.Sheetrock"
+//	"6"			"Impact.Cloth"
+	"7"			"Impact.Carpet"
+//	"8"			"Impact.Paper"
+	"9"			"Impact.Upholstery"
+//	"10"		"Impact.Puddle"
+	"11"		"Impact.Mud"
+	"12"		"Impact.Metal"
+
+}
+
+"Impact.Snow"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Concrete"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Tile"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Dirt"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Upholstery"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Carpet"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Rubber"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Cardboard"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Asphalt"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Vent"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Computer"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Plastic"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Metal"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Wood"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Glass"
+{
+	"decals/glass/shot1_subrect" "1"
+	"decals/glass/shot2_subrect" "1"
+	"decals/glass/shot3_subrect" "1"
+	"decals/glass/shot4_subrect" "1"
+}
+
+// This is the blood on flesh for impacts.
+"Impact.Flesh"
+{
+	"decals/flesh/blood1_subrect" "1"
+	"decals/flesh/blood2_subrect" "1"
+	"decals/flesh/blood3_subrect" "1"
+	"decals/flesh/blood4_subrect" "1"
+	"decals/flesh/blood5_subrect" "1"
+	"decals/flesh/blood9_subrect" "1"
+}
+
+
+// Sand does not have model versions of the decals.
+"Impact.Sand"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+// Grass does not have model versions of the decals.
+"Impact.Grass"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+// Leaves does not have model versions of the decals.
+"Impact.Leaves"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"MolotovScorch"
+{
+	"decals/MolotovScorch" "1"
+}
+
+"Scorch"
+{
+	"decals/scorch1_subrect" "1"
+//	"decals/scorch2_subrect" "1"
+}
+
+// This is splatter blood.
+"Blood"
+{
+	"decals/blood1_subrect" "1"
+	"decals/blood2_subrect" "1"
+	"decals/blood3_subrect" "1"
+	"decals/blood4_subrect" "1"
+	"decals/blood5_subrect" "1"
+}
+
+"ManhackCut"
+{
+	"decals/manhackcut_subrect" "1"
+	"decals/manhackcut2_subrect" "1"
+	"decals/manhackcut3_subrect" "1"
+}
+
+"Impact.Sheetrock"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Plaster"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Rock"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Brick"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Impact.Mud"
+{
+	"decals/concrete/concrete1_subrect" "1"
+	"decals/concrete/concrete2_subrect" "1"
+	"decals/concrete/concrete3_subrect" "1"
+	"decals/concrete/concrete4_subrect" "1"
+}
+
+"Models"
+{
+	// World Model specific decal precache.
+	"decals/concrete/concrete1" "1"
+	"decals/concrete/concrete2" "1"
+	"decals/concrete/concrete3" "1"
+	"decals/concrete/concrete4" "1"
+	
+	"decals/metal/metal01" "1"
+	"decals/metal/metal02" "1"
+	"decals/metal/metal03" "1"
+	"decals/metal/metal04" "1"
+	"decals/wood/wood1" "1"
+	"decals/wood/wood2" "1"
+	"decals/wood/wood3" "1"
+	"decals/wood/wood4" "1"
+	"decals/glass/shot1" "1"
+	"decals/glass/shot2" "1"
+	"decals/glass/shot3" "1"
+	"decals/glass/shot4" "1"
+	"decals/flesh/blood1" "1"
+	"decals/flesh/blood2" "1"
+	"decals/flesh/blood3" "1"
+	"decals/flesh/blood4" "1"
+	"decals/flesh/blood5" "1"
+	"decals/scorch1" "1"
+	"decals/blood1" "1"
+	"decals/blood2" "1"
+	"decals/blood3" "1"
+	"decals/blood4" "1"
+	"decals/blood5" "1"
+	"decals/blood6" "1"
+
+
+	// Model specific decal precache.
+//	"decals/bigshot1model" "1"
+//	"decals/bigshot2model" "1"
+//	"decals/bigshot3model" "1"
+//	"decals/bigshot4model" "1"
+//	"decals/bigshot5model" "1"
+//	"decals/bproof1model" "1"
+//	"decals/break1model" "1"
+//	"decals/break2model" "1"
+//	"decals/break3model" "1"
+//	"decals/extinguish1model" "1"
+//	"decals/extinguish2model" "1"
+	"decals/scorch1model" "1"
+//	"decals/scorch2model" "1"
+//	"decals/scorchfademodel" "1"
+//	"decals/smscorch1model" "1"
+//	"decals/smscorch2model" "1"
+//	"decals/smscorch3model" "1"
+}

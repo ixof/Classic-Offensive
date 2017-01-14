@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/ct_sas/ctm_sas_lenses"
+	"$phong" "1"
+	"$phongExponent" "50"
+	"$phongBoost" "10"
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1"
+	"$envmapFresnelMinMaxExp" "[.15 .8 1]"
+	"$envmaptint" "[.9 1 1]"
+//	"$envmapcontrast" "1"
+}

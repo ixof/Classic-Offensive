@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 			"models\inventory_items\inviscoin\5_year_coin"
+	"$additive" "1"
+	
+}
+

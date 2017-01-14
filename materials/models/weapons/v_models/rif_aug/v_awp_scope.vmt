@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\rif_aug\v_awp_scope"
+	"$translucent"	"1"
+
+}

@@ -1,0 +1,7 @@
+vertexlitgeneric
+{
+	"$basetexture"         "models/ZooL/metal_crate_001/metal_crate_hazard"
+	"$color2"              "[0.4 0.4 0.4]"
+    "$detail"              "detail\detail_concrete_02"
+    "$detailscale"         "[ 8 8 ]"
+}

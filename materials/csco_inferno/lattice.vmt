@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "csco_inferno/lattice"
+	"$surfaceprop" "wood"
+	"$alphatest" 1
+	"%keywords" "cstrike"
+}

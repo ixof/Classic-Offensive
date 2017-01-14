@@ -1,0 +1,5 @@
+"SpriteCard"
+{
+	"$basetexture" "cs16_other\blood"
+	$DEPTHBLEND 0
+}

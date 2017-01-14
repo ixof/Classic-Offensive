@@ -1,0 +1,9 @@
+"fy_snow_csco"
+{
+	"material"	"overviews/fy_snow_csco"	// texture file
+	"pos_x"		"-451"	// upper left world coordinate
+	"pos_y"		"1210"
+	"scale"		"2" 
+	"rotate"	"1"
+	"zoom"		"1"	
+}

@@ -1,0 +1,7 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "tr_shootingrange_csco/labcrete00a"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "tr_shootingrange_csco/labcrete00a_normal"
+
+}

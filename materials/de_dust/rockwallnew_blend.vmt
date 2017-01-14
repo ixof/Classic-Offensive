@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "de_dust/cliff"
+	$basetexture2 "de_dust/newsand"
+	$blendmodulatetexture "nature/blend_texture_01"
+	"$surfaceprop" "concrete"
+	"%keywords" "cstrike" 
+	$basetexturetransform "center .5 .5 scale 0.27 0.27 rotate 0 translate 0 0"
+}

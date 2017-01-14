@@ -1,0 +1,8 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "tr_shootingrange_csco/labfloor01"
+//	"$surfaceprop" "concrete"
+//	"$envmap" "env_cubemap"
+// 	"$envmaptint" "[.05 .05 .05]"
+//	"$basealphaenvmapmask" 1
+}

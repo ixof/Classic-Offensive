@@ -1,0 +1,10 @@
+Subrect
+{
+$Material "decals\concrete\concrete2"
+$Pos "0 0"
+$Size "512 512"
+$modelmaterial "decals\concrete\concrete2"
+$decal 1
+$decalscale "0.015"
+$decalScaleVariation "0.25"
+}

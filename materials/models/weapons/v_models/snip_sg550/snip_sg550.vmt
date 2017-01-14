@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\snip_sg550\snip_sg550"
+	"$bumpmap"	"models\weapons\v_models\snip_sg550\snip_sg550_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.3 0.3 0.3 ]"
+}

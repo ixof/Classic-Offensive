@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tr_shootingrange_csco/concretewall_lab_3"
+
+        "$detail" "tr_shootingrange_csco/bm_concrete_detail_01"
+	"$detailscale" "6.283"
+	"$detailblendfactor" .8
+	"$detailblendmode" 0
+	"$surfaceprop" "concrete"
+	
+	
+	"%keywords" "bms"
+}

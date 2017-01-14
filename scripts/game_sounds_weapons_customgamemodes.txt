@@ -1,0 +1,42 @@
+"Weapon_Railgun.Single"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.40"
+	"pitch"		"PITCH_NORM"
+
+	"rndwave"
+	{
+		"wave"			")weapons/customgamemodes/railgun-1.wav"
+		"wave"			")weapons/customgamemodes/railgun-2.wav"
+		"wave"			")weapons/customgamemodes/railgun-3.wav"
+	}
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"start_stack"
+		{
+			"import_stack" "CS_distance_weapon_start2"
+		}
+	}
+}
+
+"Weapon_Deagle_Gold.Single"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.0"
+	"CompatibilityAttenuation"	"0.40"
+	"pitch"		"PITCH_NORM"
+
+
+	"wave"			")weapons/customgamemodes/deagle_gold.wav"
+	
+	"soundentry_version" "2"
+	"operator_stacks"
+	{
+		"start_stack"
+		{
+			"import_stack" "CS_distance_weapon_start2"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "csco_dust/l33tkr3w"
+$surfaceprop concrete
+$translucent 1
+$decal 1
+}

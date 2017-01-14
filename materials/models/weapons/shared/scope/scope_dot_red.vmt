@@ -1,0 +1,7 @@
+patch
+{
+	include "materials/models/weapons/shared/scope/scope_dot_sg.vmt"
+	insert
+	{
+	}
+}

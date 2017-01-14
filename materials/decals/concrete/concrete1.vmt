@@ -1,0 +1,8 @@
+DecalModulate
+{
+$baseTexture "decals\concrete\concrete1"
+$translucent 1
+$decal 1
+$decalscale "0.015"
+$decalScaleVariation "0.25"
+}

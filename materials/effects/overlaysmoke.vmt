@@ -1,0 +1,7 @@
+"patch"
+{
+	"include" "materials/effects/smokeoverlay2.vmt"
+	"insert"
+	{	
+	}	
+}

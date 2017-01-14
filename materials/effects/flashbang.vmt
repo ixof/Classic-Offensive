@@ -1,0 +1,7 @@
+"patch"
+{
+	"include" "materials/effects/flashbang1.vmt"
+	"insert"
+	{	
+	}	
+}

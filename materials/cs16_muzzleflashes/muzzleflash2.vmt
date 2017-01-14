@@ -1,0 +1,8 @@
+"spritecard"
+{
+	"$basetexture" "cs16_muzzleflashes/muzzleflash2"
+	"$additive" "1"
+	"$translucent" 1
+	"$alphatest" 1
+	"$overbrightfactor" "7.5"
+}

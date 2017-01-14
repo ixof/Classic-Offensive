@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$baseTexture" "models\weapons\v_models\havoc.sg552\bitsandbobs"
+	"$bumpmap" "models\weapons\v_models\havoc.sg552\bitsandbobs norm"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	
+}
