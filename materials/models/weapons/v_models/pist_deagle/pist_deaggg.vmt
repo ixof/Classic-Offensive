@@ -2,7 +2,7 @@
 VertexLitGeneric
 {
 	"$baseTexture" "models\weapons\v_models\pist_deagle\pist_deaggg"
-
+	"$nocull" 1
 
 	"$phong" "1"
 
@@ -16,14 +16,12 @@ VertexLitGeneric
 
 	"$phongdisablehalflambert" "1"
 
-	"$envmap" "models/weapons/v_models/cubemapgold"
+	"$envmap" "models\weapons\shared\scope\eye-reflection-cubemap"
 	"$baseAlphaEnvMapMask" "1" 
 	"$envmapfresnel" "1"
-	"$envmaptint" 		"[.6 .6 .25]"
+	"$envmaptint" 		"[.6 .2 .0]"
 
 	"$rimlight" "1"
 	"$rimlightexponent" "3"
 	"$rimlightboost" "3.0"
-
-
 }

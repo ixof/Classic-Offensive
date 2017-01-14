@@ -1,11 +1,11 @@
-"LightmappedGeneric"
+LightmappedGeneric
 {
-	"$basetexture" "tr_shootingrange_csco/concretewall_lab_5"
+	$basetexture "tr_shootingrange_csco/concretewall_lab_5"
+	$surfaceprop Concrete
 
-        "$detail" "tr_shootingrange_csco\bm_concrete_detail_01"
-	"$detailscale" "6.283"
-	"$detailblendfactor" .8
-	"$detailblendmode" 0
-	
-	"%keywords" "bms"
+	$detail "tr_shootingrange_csco/hr_detail_asphalt_01"
+	$detailscale 6.283
+	$detailblendfactor 0.8
+
+	%keywords "csco"
 }

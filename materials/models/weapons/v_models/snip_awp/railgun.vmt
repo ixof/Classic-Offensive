@@ -2,6 +2,6 @@ VertexLitGeneric
 {
 	"$basetexture"	"models\weapons\v_models\snip_awp\railgun"
 
-	"$selfillum" 1
+//	"$selfillum" 1
 
 }

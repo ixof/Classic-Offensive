@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "metal/container_front01"
+	"$surfaceprop" "metal"
+	"%keywords" "lite"
+	"$bumpmap" "metal/container_front01_normal"
+}

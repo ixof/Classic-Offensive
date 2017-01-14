@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "de_mirage/ground/ground_tileh_diffuse"
+	"$detail" 				"detail\noise_detail_01"
+	"$detailscale" 			"[ 8 8 ]"
+	"$detailblendfactor" 	"0.5"
+	"$envmapmask"	"de_mirage/ground/ground_tile_h_envmask"
+	"$bumpscale" "0.0"
+	$surfaceprop concrete
+
+}
+
+
+

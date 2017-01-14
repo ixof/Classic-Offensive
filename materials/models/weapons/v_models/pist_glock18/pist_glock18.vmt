@@ -1,6 +1,7 @@
 "VertexLitGeneric"
 {
 	"$baseTexture" "models\weapons\v_models\pist_glock18\pist_glock18"
+	"$nocull" 1
 
 	"$phong" "1"
 	"$phongboost" "1"

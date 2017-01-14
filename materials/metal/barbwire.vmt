@@ -1,0 +1,8 @@
+"lightmappedGeneric"
+{
+	"$basetexture" "metal/barbwire"
+	"$alphatest" 1
+	"$surfaceprop" "metal"
+//	"$translucent" 1
+//	"$nocull" 1
+}

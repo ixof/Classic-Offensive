@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "csco_piranesi/cliff"
+	"$basetexture2" "de_cbble/grass_alt/grass_a" 
+	"$blendmodulatetexture" "nature/tibet_blendmod_snow_rock"
+	"$surfaceprop" "rock"
+	"%keywords" "cstrike" 
+	$basetexturetransform "center .5 .5 scale 0.40 0.40 rotate 0 translate 0 0"
+}

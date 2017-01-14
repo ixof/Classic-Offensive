@@ -49,40 +49,46 @@
 					{						
                         "mg_de_dust2_csco"		"0"
                         "mg_de_mirage_csco"		"1"
-                        "mg_de_inferno_csco"	"2"               
-                        "mg_cs_italy_csco"		"3"  
+                        "mg_de_inferno_csco"	"2"  
+						"mg_de_piranesi_csco"	"3"
+                        "mg_cs_italy_csco"		"4"  
+						
+						//
+						//
+						//
+						//
 						//
 						
-                        "mg_de_dust2_winter_csco"		"5" 
-						//
-						//
+                        "mg_de_dust2_winter_csco"		"10"  
+                        //
+                        //  
 						//
 						//
 						
-                        "mg_fy_snow_csco"		"10"  
-                        "mg_fy_pool_day_csco"		"11"  
-                        "mg_aim_map_csco"		"12"  
+                        "mg_fy_snow_csco"		"15"  
+                        "mg_fy_pool_day_csco"		"16"  
+                        "mg_aim_map_csco"		"17"  
 						//
 						//
 						
 						//active maps
-                        "mg_de_dust2"		"15"
-						"mg_de_train"		"16"
-						"mg_de_mirage"		"17"
-						"mg_de_inferno"		"18"
-						"mg_de_cbble"		"19"
-						"mg_de_overpass"	"20"
-						"mg_de_cache"	    "21"
+                        "mg_de_dust2"		"30"
+						"mg_de_train"		"31"
+						"mg_de_mirage"		"32"
+						"mg_de_inferno"		"33"
+						"mg_de_cbble"		"34"
+						"mg_de_overpass"	"35"
+						"mg_de_cache"	    "36"
 						
                         //inactive maps
-						"mg_de_aztec"		"22"
-						"mg_de_dust"		"23"
-						"mg_de_vertigo"	    "24"
-						"mg_de_nuke"		"25"
-                        "mg_cs_office"      "26"
-                        "mg_cs_italy"		"27"
-                        "mg_cs_assault"    	"28"
-                        "mg_cs_militia"	    "29"
+						"mg_de_aztec"		"37"
+						"mg_de_dust"		"38"
+						"mg_de_vertigo"	    "39"
+						"mg_de_nuke"		"40"
+                        "mg_cs_office"      "41"
+                        "mg_cs_italy"		"42"
+                        "mg_cs_assault"    	"43"
+                        "mg_cs_militia"	    "44"
 					}
 
 					// Map groups for online modes
@@ -90,40 +96,46 @@
 					{
                         "mg_de_dust2_csco"		"0"
                         "mg_de_mirage_csco"		"1"
-                        "mg_de_inferno_csco"	"2"               
-                        "mg_cs_italy_csco"		"3"  
+                        "mg_de_inferno_csco"	"2"  
+						"mg_de_piranesi_csco"	"3"
+                        "mg_cs_italy_csco"		"4"  
+						
+						//
+						//
+						//
+						//
 						//
 						
-                        "mg_de_dust2_winter_csco"		"5" 
-						//
-						//
+                        "mg_de_dust2_winter_csco"		"10"  
+                        //
+                        //  
 						//
 						//
 						
-                        "mg_fy_snow_csco"		"10"  
-                        "mg_fy_pool_day_csco"		"11"  
-                        "mg_aim_map_csco"		"12"  
+                        "mg_fy_snow_csco"		"15"  
+                        "mg_fy_pool_day_csco"		"16"  
+                        "mg_aim_map_csco"		"17"  
 						//
 						//
 						
 						//active maps
-                        "mg_de_dust2"		"15"
-						"mg_de_train"		"16"
-						"mg_de_mirage"		"17"
-						"mg_de_inferno"		"18"
-						"mg_de_cbble"		"19"
-						"mg_de_overpass"	"20"
-						"mg_de_cache"	    "21"
+                        "mg_de_dust2"		"30"
+						"mg_de_train"		"31"
+						"mg_de_mirage"		"32"
+						"mg_de_inferno"		"33"
+						"mg_de_cbble"		"34"
+						"mg_de_overpass"	"35"
+						"mg_de_cache"	    "36"
 						
                         //inactive maps
-						"mg_de_aztec"		"22"
-						"mg_de_dust"		"23"
-						"mg_de_vertigo"	    "24"
-						"mg_de_nuke"		"25"
-                        "mg_cs_office"      "26"
-                        "mg_cs_italy"		"27"
-                        "mg_cs_assault"    	"28"
-                        "mg_cs_militia"	    "29"
+						"mg_de_aztec"		"37"
+						"mg_de_dust"		"38"
+						"mg_de_vertigo"	    "39"
+						"mg_de_nuke"		"40"
+                        "mg_cs_office"      "41"
+                        "mg_cs_italy"		"42"
+                        "mg_cs_assault"    	"43"
+                        "mg_cs_militia"	    "44"
 					}
 				}
 	
@@ -390,40 +402,46 @@
 					{
                         "mg_de_dust2_csco"		"0"
                         "mg_de_mirage_csco"		"1"
-                        "mg_de_inferno_csco"	"2"               
-                        "mg_cs_italy_csco"		"3"  
+                        "mg_de_inferno_csco"	"2"  
+						"mg_de_piranesi_csco"	"3"
+                        "mg_cs_italy_csco"		"4"  
+						
+						//
+						//
+						//
+						//
 						//
 						
-                        "mg_de_dust2_winter_csco"		"5" 
-						//
-						//
+                        "mg_de_dust2_winter_csco"		"10"  
+                        //
+                        //  
 						//
 						//
 						
-                        "mg_fy_snow_csco"		"10"  
-                        "mg_fy_pool_day_csco"		"11"   
-                        "mg_aim_map_csco"		"12"  
+                        "mg_fy_snow_csco"		"15"  
+                        "mg_fy_pool_day_csco"		"16"  
+                        "mg_aim_map_csco"		"17"  
 						//
 						//
 						
 						//active maps
-                        "mg_de_dust2"		"15"
-						"mg_de_train"		"16"
-						"mg_de_mirage"		"17"
-						"mg_de_inferno"		"18"
-						"mg_de_cbble"		"19"
-						"mg_de_overpass"	"20"
-						"mg_de_cache"	    "21"
+                        "mg_de_dust2"		"30"
+						"mg_de_train"		"31"
+						"mg_de_mirage"		"32"
+						"mg_de_inferno"		"33"
+						"mg_de_cbble"		"34"
+						"mg_de_overpass"	"35"
+						"mg_de_cache"	    "36"
 						
                         //inactive maps
-						"mg_de_aztec"		"22"
-						"mg_de_dust"		"23"
-						"mg_de_vertigo"	    "24"
-						"mg_de_nuke"		"25"
-                        "mg_cs_office"      "26"
-                        "mg_cs_italy"		"27"
-                        "mg_cs_assault"    	"28"
-                        "mg_cs_militia"	    "29"
+						"mg_de_aztec"		"37"
+						"mg_de_dust"		"38"
+						"mg_de_vertigo"	    "39"
+						"mg_de_nuke"		"40"
+                        "mg_cs_office"      "41"
+                        "mg_cs_italy"		"42"
+                        "mg_cs_assault"    	"43"
+                        "mg_cs_militia"	    "44"
 					}
 
 					// Map groups for online modes
@@ -431,40 +449,46 @@
 					{
                         "mg_de_dust2_csco"		"0"
                         "mg_de_mirage_csco"		"1"
-                        "mg_de_inferno_csco"	"2"               
-                        "mg_cs_italy_csco"		"3"  
+                        "mg_de_inferno_csco"	"2"  
+						"mg_de_piranesi_csco"	"3"
+                        "mg_cs_italy_csco"		"4"  
+						
+						//
+						//
+						//
+						//
 						//
 						
-                        "mg_de_dust2_winter_csco"		"5" 
-						//
-						//
+                        "mg_de_dust2_winter_csco"		"10"  
+                        //
+                        //  
 						//
 						//
 						
-                        "mg_fy_snow_csco"		"10"  
-                        "mg_fy_pool_day_csco"		"11"   
-                        "mg_aim_map_csco"		"12"  
+                        "mg_fy_snow_csco"		"15"  
+                        "mg_fy_pool_day_csco"		"16"  
+                        "mg_aim_map_csco"		"17"  
 						//
 						//
 						
 						//active maps
-                        "mg_de_dust2"		"15"
-						"mg_de_train"		"16"
-						"mg_de_mirage"		"17"
-						"mg_de_inferno"		"18"
-						"mg_de_cbble"		"19"
-						"mg_de_overpass"	"20"
-						"mg_de_cache"	    "21"
+                        "mg_de_dust2"		"30"
+						"mg_de_train"		"31"
+						"mg_de_mirage"		"32"
+						"mg_de_inferno"		"33"
+						"mg_de_cbble"		"34"
+						"mg_de_overpass"	"35"
+						"mg_de_cache"	    "36"
 						
                         //inactive maps
-						"mg_de_aztec"		"22"
-						"mg_de_dust"		"23"
-						"mg_de_vertigo"	    "24"
-						"mg_de_nuke"		"25"
-                        "mg_cs_office"      "26"
-                        "mg_cs_italy"		"27"
-                        "mg_cs_assault"    	"28"
-                        "mg_cs_militia"	    "29"
+						"mg_de_aztec"		"37"
+						"mg_de_dust"		"38"
+						"mg_de_vertigo"	    "39"
+						"mg_de_nuke"		"40"
+                        "mg_cs_office"      "41"
+                        "mg_cs_italy"		"42"
+                        "mg_cs_assault"    	"43"
+                        "mg_cs_militia"	    "44"
 					}
 				}
 			}
@@ -581,6 +605,25 @@
 						"exec" "gamemode_competitive.cfg" 
 						"exec" "gamemode_cooperative.cfg"
 						"exec" "gamemode_cooperative_server.cfg"
+					}
+				}
+				"coopmission"
+				{
+					"value"				"1"
+					"nameID"			"#SFUI_GameModeCoopMission"
+					"descID"			"#SFUI_GameModeCooperativeDesc"
+					"maxplayers"		"10"
+	
+					"show_rich_presence_map_game"  "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
+					"show_rich_presence_map_watch" "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
+					"show_rich_presence_map_review" "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
+
+					// These are the configs that get executed when a game mode of this type is created
+					"exec"
+					{
+						"exec" "gamemode_competitive.cfg" 
+						"exec" "gamemode_coopmission.cfg"
+						"exec" "gamemode_coopmission_server.cfg"
 					}
 				}
 			}
@@ -928,14 +971,14 @@
 		"mg_de_mirage_csco"
 		{
 			"imagename"		"map-mirage-overall"
-			"nameID"		"#SFUI_Map_de_mirage_ce"
-			"tooltipID"		"#SFUI_Map_de_mirage_ce_desc"
+			"nameID"		"#SFUI_Map_de_mirage_csco"
+			"tooltipID"		"#SFUI_Map_de_mirage_csco_desc"
 			"name"			"mg_de_dust2"
 			"icontag"		"bomb"
             "grouptype"     "op_breakout"
 			"maps"
 			{
-				"de_mirage_ce"		""
+				"de_mirage_csco"		""
 			}
 		}
 
@@ -950,6 +993,20 @@
 			"maps"
 			{
 				"de_inferno_csco"		""
+			}
+		}
+
+		"mg_de_piranesi_csco"
+		{
+			"imagename"		"map-coast-overall"
+			"nameID"		"#SFUI_Map_de_piranesi_csco"
+			"tooltipID"		"#SFUI_Map_Tooltip_Desc_Classic_Op_over"
+			"name"			"mg_de_dust2"
+			"icontag"		"bomb"
+            "grouptype"     "op_breakout"
+			"maps"
+			{
+				"de_piranesi_csco"		""
 			}
 		}
 
@@ -2276,6 +2333,31 @@
 			}
 		}
 		
+		"de_piranesi_csco"
+		{
+			"nameID"			"#SFUI_Map_de_inferno"
+			"name"				"de_piranesi_csco"
+			"imagename"			"map-dust2-overall"
+			"default_game_type"		"0" // classic
+			"default_game_mode"		"0" // casual
+			"t_models"
+			{
+				"models/player/custom_player/legacy/tm_phoenix_variant_guerilla.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix_variant_classic.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix_variant_arctic.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix.mdl"		""
+			}
+			"ct_models"
+			{
+				"models/player/custom_player/legacy/ctm_st6.mdl"		""
+				"models/player/custom_player/legacy/ctm_st6_variant_gsg9.mdl"		""
+				"models/player/custom_player/legacy/ctm_st6_variant_sas.mdl"		""
+				"models/player/custom_player/legacy/ctm_st6_variant_urban.mdl"		""
+				"models/player/custom_player/legacy/ctm_st6.mdl"		""
+			}
+		}
+		
 		"cs_italy_csco"
 		{
 			"nameID"			"#SFUI_Map_cs_italy"
@@ -2351,9 +2433,9 @@
 			}
 		}
 
-		"de_mirage_ce"
+		"de_mirage_csco"
 		{
-			"nameID"			"#SFUI_Map_de_mirage_ce"
+			"nameID"			"#SFUI_Map_de_mirage_csco"
 			"name"				"de_mirage"
 			"imagename"			"map-mirage-overall"
 			"default_game_type"		"0" // classic

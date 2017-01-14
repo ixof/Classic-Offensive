@@ -28,7 +28,7 @@ WeaponData
     CanEquipWithShield              1
 
     // Weapon characteristics:
-    Penetration                     0
+    Penetration                     1
     Damage                          25
     Range                           4096
     RangeModifier                   0.9
@@ -45,20 +45,20 @@ WeaponData
     InaccuracyJump                  0.616
     InaccuracyLand                  0
     InaccuracyLadder                137.00
-    InaccuracyFire                  80.00
+    InaccuracyFire                  120.00
     InaccuracyMove                  10.00
                                  
     SpreadAlt                       2.60
-    InaccuracyCrouchAlt             15.00
-    InaccuracyStandAlt              15.60
+    InaccuracyCrouchAlt             8.00
+    InaccuracyStandAlt              8.60
     InaccuracyJumpAlt               0.15
     InaccuracyLandAlt               0
     InaccuracyLadderAlt             119.25
-    InaccuracyFireAlt               50.00 
+    InaccuracyFireAlt               70.00 
     InaccuracyMoveAlt               12.95
                                  
-    RecoveryTimeCrouch              0.331572
-    RecoveryTimeStand               0.331572
+    RecoveryTimeCrouch              0.24
+    RecoveryTimeStand               0.24
     
     RecoilAngle                     0
     RecoilAngleVariance             0

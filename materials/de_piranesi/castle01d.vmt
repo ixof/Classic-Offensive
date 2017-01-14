@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/castle01d"
+	"$surfaceprop" "rock"
+	"$bumpmap" "de_piranesi/castle01d_normal"
+ 	"%keywords" "cstrike" 
+}

@@ -114,7 +114,7 @@
         "Explosions"            "1.0" "1.0" "1.0"    
         "ExplosionsDistant"    	"2.0" "1.0" "1.0"    
         "DistWeapons"           "2.8" "1.0" "0.0"
-        "FirstWeapons"          "0.31" "1.0" "0.0"
+        "FirstWeapons"          "0.1" "1.0" "0.0"
         "ThirdWeapons"          "0.51" "1.0" "0.0"
 		"LoudWeapons"           "0.9" "1.0" "0.0"
         "Weapons"               "0.5" "1.0" "1.0"
@@ -124,7 +124,7 @@
         "Rain"               "0.5" "1.0" "1.0"
 
         
-        "PlayerFootsteps"        	"0.2" "1.0" "1.0"
+        "PlayerFootsteps"        	"0.7" "1.0" "1.0"
         "GlobalFootsteps"        	"1.0" "0.9" "0.0"
 		
         "NewPlayerFootsteps"        "0" "1.0" "1.0"

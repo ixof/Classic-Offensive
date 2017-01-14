@@ -1,5 +1,6 @@
 "SplineRope"
 {
 	"$basetexture"			"cable\phonecable"
-	"$translucent"				"1"
+	"$alphatestreference"	"0.5"
+	"$tiling"				"12"
 }

@@ -28,7 +28,7 @@ WeaponData
     CanEquipWithShield              1
 
     // Weapon characteristics:
-    Penetration                     0
+    Penetration                     1
     Damage                          31
     Range                           4096
     RangeModifier                   0.85

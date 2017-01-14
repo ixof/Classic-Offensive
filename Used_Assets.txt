@@ -12,116 +12,25 @@ made by me.
 
 Dust2 and Inferno are heavely modified versions of the CSPromod's
 Italy is CS:GO's, I've modified it quite a bit.
-Mirage is this one: http://steamcommunity.com/sharedfiles/filedetails/?id=123769103
+Mirage is based on this one: http://steamcommunity.com/sharedfiles/filedetails/?id=123769103
 Pool Day is here: http://steamcommunity.com/sharedfiles/filedetails/?id=122521875
 Fy Snow is based on this version: http://gamebanana.com/maps/181276
 
 Those maps are pretty much all placeholders but Italy.
-
-
-			== Other ==
-
-SourceScheme.res (retro console colors): http://gamebanana.com/guis/27320
 			
 			
 			== WEAPONS ==
 
-Some weapon assets are from Gamebanana, here's the list of the 
-stuff I've used in the mod including their links and authors, 
-it doesn't include the ones who did animations, sounds since 
-I didn't used them anyway. Those are mostly placeholders until 
-I found a good modeler and animator of course.
+Those are mostly placeholders until I found a good modeler 
+and animator
 
-I've reanimated some, but most of them are just rigged on their
-default CS:GO anims, the MP5 Comeback anims aren't by me though.
+I've reanimated some of CS:S' models, using CS:GO's default anims
+but most of them are just rigged on the original anims
 
-==================================================================
-	MP5 Comeback	http://gamebanana.com/skins/117740
-==================================================================
+- Thanezy AK47 http://gamebanana.com/skins/54505 made by Thanez
 
-arby26
-Poux
-Blur.
+The rest if ported from CS:S or uses the same model as CS:GO
 
-
-==================================================================
-==================================================================
-   Havoc SG552 without scope http://gamebanana.com/skins/17244
-==================================================================
-
-Hav0c
-Soul_Slayer
-Twinke Masta
-
-==================================================================
-==================================================================
-	Pete Galil model   http://gamebanana.com/skins/125289 TEMPORARY
-==================================================================
-
-Darkstorn
-Twinke Masta
-Pete
-
-==================================================================
-==================================================================
-	USP model http://gamebanana.com/skins/103960
-==================================================================
-
-Shortez
-
-
-==================================================================
-==================================================================
-    AUG's Scope model http://gamebanana.com/skins/71190
-==================================================================
-
-Twinke Masta
-
-==================================================================
-==================================================================
-  M3 Some texture parts from http://gamebanana.com/skins/115883
-==================================================================
-
-Teh Snake
-
-
-==================================================================
-==================================================================
-  Thanezy AK-47 from http://gamebanana.com/skins/54505
-==================================================================
-
-Twinke Masta 
-Thanez 
-Rosa Jonas
-FxDarkloki 
-
-
-==================================================================
-==================================================================
-  Short Fuse.Thanez P90    http://gamebanana.com/skins/84825
-==================================================================
-
-Short_Fuse
-Soul_Slayer
-Thanez
-Stoke
-
-==================================================================
-==================================================================
-        Desert Eagle     http://gamebanana.com/skins/56928
-==================================================================
-
-Twinke Masta 
-Vashts1985 
-Coop 
-L0RDN00B 
-Thanez 
-Henron 
-OldChili 
-
-==================================================================
-==================================================================
-==================================================================
 ==================================================================
 
 			- ZooL

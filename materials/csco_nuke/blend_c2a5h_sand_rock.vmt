@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "csco_nuke/rockwall"
+	"$basetexture2" "csco_nuke/dirtground"
+	"%tooltexture" "csco_nuke/dirtground2"
+	"$surfaceprop" "rock"
+	"$surfacepro2" "dirt"
+	"$blendmodulatetexture" "csco_nuke/sandfloor_01_blendtexture"
+}

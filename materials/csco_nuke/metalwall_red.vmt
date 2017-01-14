@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "csco_nuke/metalwall_red"
+	"$surfaceprop" "metal"
+}
