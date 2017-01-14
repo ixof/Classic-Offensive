@@ -4,5 +4,6 @@ To download the mod visit https://github.com/CS-CO/Classic-Offensive/releases/la
 
 If you want to report a bug you found create a new issue at https://github.com/CS-CO/Classic-Offensive/issues/new
 
+-
 
-
+<a title="View Counter-Strike: Classic Offensive on Mod DB&#10;http://www.moddb.com/mods/counter-strike-classic-offensive" href="http://www.moddb.com/mods/counter-strike-classic-offensive"><img alt="Counter-Strike: Classic Offensive" src="http://button.moddb.com/popularity/medium/mods/30832.png"></a>
