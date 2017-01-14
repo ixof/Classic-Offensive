@@ -43,23 +43,14 @@ WeaponData
 	FlinchVelocityModifierSmall		0.55
 	
 	// accuracy model parameters
-	"Spread"					0.80
+	"Spread"					0.60
 	"InaccuracyCrouch"			6.58
 	"InaccuracyStand"			8.77
 	"InaccuracyJump"			0.852
 	"InaccuracyLand"			0
 	"InaccuracyLadder"			113.58
-	"InaccuracyFire"			8.78
+	"InaccuracyFire"			7.78
 	"InaccuracyMove"			123.56
-
-	"SpreadAlt"					0.60
-	"InaccuracyCrouchAlt"		4.84
-	"InaccuracyStandAlt"		7.78
-	"InaccuracyJumpAlt"			0.852
-	"InaccuracyLandAlt"			0
-	"InaccuracyLadderAlt"		113.58
-	"InaccuracyFireAlt"			5.85
-	"InaccuracyMoveAlt"			106.52	
 								 
 	"RecoveryTimeCrouch"		0.538805
 	"RecoveryTimeStand"			0.538805
@@ -68,7 +59,7 @@ WeaponData
 	
 	"RecoilAngle"					0
 	"RecoilAngleVariance"			80
-	"RecoilMagnitude"				27
+	"RecoilMagnitude"				26
 	"RecoilMagnitudeVariance"		1
 	// Weapon data is loaded by both the Game and Client DLLs.
 	"printname"			"#SFUI_WPNHUD_GalilAR"

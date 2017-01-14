@@ -1796,19 +1796,17 @@
 
 "c4.disarmstart"
 {
-	"channel"		"CHAN_VOICE"
+	"channel"		"CHAN_STATIC"
 	"volume"		"1"
-	"CompatibilityAttenuation"	"1.0"
-
+	"soundlevel"		"SNDLVL_85dB"
 	"wave"			"weapons/c4/c4_disarm.wav"
 }
 
 "c4.disarmfinish"
 {
-	"channel"		"CHAN_ITEM"
+	"channel"		"CHAN_STATIC"
 	"volume"		"1"
-	"CompatibilityAttenuation"	"1.0"
-
+	"soundlevel"		"SNDLVL_85dB"
 	"wave"			"weapons/c4/c4_disarm.wav"
 }
 
@@ -1824,7 +1822,7 @@
 
 "c4.click"
 {
-	"channel"		"CHAN_STATIC"
+	"channel"		"CHAN_WEAPON"
 	"volume"		"1"
 	"CompatibilityAttenuation"	"1.0"
 	

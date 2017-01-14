@@ -39,13 +39,13 @@ WeaponData
     FlinchVelocityModifierSmall     0.65
     
     // accuracy model parameters
-    Spread                          5.00
+    Spread                          3.50
     InaccuracyCrouch                3
     InaccuracyStand                 3
     InaccuracyJump                  0.633
     InaccuracyLand                  0
     InaccuracyLadder                138.00
-    InaccuracyFire                  75.45
+    InaccuracyFire                  55.45
     InaccuracyMove                  13.41
                                  
     RecoveryTimeCrouch              0.345388
@@ -53,7 +53,7 @@ WeaponData
 
     RecoilAngle                     0
     RecoilAngleVariance             10
-    RecoilMagnitude                 29
+    RecoilMagnitude                 25
     RecoilMagnitudeVariance         5
     RecoilSeed                      9788
     

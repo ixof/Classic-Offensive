@@ -1,8 +1,8 @@
-ClientVersion=1
-ServerVersion=1
-PatchVersion=1.1
-ProductName=ClassicOffensive
+ClientVersion=419
+ServerVersion=419
+PatchVersion=1.10.0.1
+ProductName=csgo
 appID=730
-SourceRevision=3676636
-VersionDate=DEC 25 2016
-VersionTime=00:00:00
+SourceRevision=3757223
+VersionDate=Dec 21 2016
+VersionTime=15:41:45

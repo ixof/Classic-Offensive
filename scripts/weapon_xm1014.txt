@@ -56,7 +56,7 @@ WeaponData
 
 	"RecoilAngle"					0
 	"RecoilAngleVariance"			20
-	"RecoilMagnitude"				110
+	"RecoilMagnitude"				100
 	"RecoilMagnitudeVariance"		20
 	"RecoilSeed"			24862
 	
