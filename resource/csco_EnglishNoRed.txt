@@ -1,0 +1,340 @@
+﻿"lang"{
+	"Language" "EnglishNoRed"
+	"Tokens"{
+		//====================================
+		// WEAPONS
+		//====================================
+
+		"SFUI_WPNHUD_AK47" "CV-47"
+		"SFUI_WPNHUD_Aug" "Bullpup"
+		"SFUI_WPNHUD_AWP" "Magnum Sniper Rifle"
+		"SFUI_WPNHUD_DesertEagle" "Night Hawk .50c"
+		"SFUI_WPNHUD_Elites" ".40 Dual Elites"
+		"SFUI_WPNHUD_Famas" "Clarion 5.56"
+		"SFUI_WPNHUD_FiveSeven" "ES Five-Seven"
+		"SFUI_WPNHUD_Flashbang" "Flashbang"
+		"SFUI_WPNHUD_G3SG1" "D3/AU-1"
+		"SFUI_WPNHUD_GalilAR" "IDF Defender"
+		"SFUI_WPNHUD_Glock18" "9×19mm Sidearm"
+		"SFUI_WPNHUD_HE_Grenade" "HE Grenade"
+		"SFUI_WPNHUD_Knife" "Knife"
+		"SFUI_WPNHUD_Knife_T" "Knife"
+		"SFUI_WPNHUD_Knife_GG" "Gold Knife"
+		"SFUI_WPNHUD_M249" "M249"
+		"SFUI_WPNHUD_M4A1" "Maverick M4A1 Carbine"
+		"SFUI_WPNHUD_M4_SILENCER" "Maverick M4A1 Carbine"
+		"SFUI_WPNHUD_MAC10" "Ingram Mac-10"
+		"SFUI_WPNHUD_P90" "ES C90"
+		"SFUI_WPNHUD_Smoke_Grenade" "Smoke Grenade"
+		"SFUI_WPNHUD_UMP45" "KM UMP45"
+		"SFUI_WPNHUD_xm1014" "Leone YG1265 Auto Shotgun"
+		"SFUI_WPNHUD_C4" "C4"
+		"SFUI_WPNHUD_HKP2000" "KM .45 Tactical"
+		"SFUI_WPNHUD_MP7" "KM Sub-Machine Gun"
+		"SFUI_WPNHUD_MP9" "Schmidt Machine Pistol"
+		"SFUI_WPNHUD_Nova" "Leone 12 Gauge Super"
+		"SFUI_WPNHUD_P250" "228 Compact"
+		"SFUI_WPNHUD_CZ75" "228 Compact"
+		"SFUI_WPNHUD_SCAR20" "Krieg 550 Commando"
+		"SFUI_WPNHUD_SG556" "Krieg 552"
+		"SFUI_WPNHUD_SSG08" "Schmidt Scout"
+		"SFUI_WPNHUD_KEVLAR" "Kevlar Vest"
+		"SFUI_WPNHUD_DEFUSER" "Defusal Kit"
+		"SFUI_WPNHUD_CUTTERS" "Rescue Kit"
+		"SFUI_WPNHUD_USP_SILENCER" "KM .45 Tactical"
+
+		"SFUI_WPNHUD_DEAGLE_GOLD" "Gold Hawk .50c"
+		"SFUI_WPNHUD_RAILGUN" "Railgun"
+
+		//====================================
+		// MENU
+		//====================================
+
+		"SFUI_PlayMenu_CustomMatchButton" "<font color='#666666'>FIND A GAME</font>"
+
+		"SFUI_QMM_State_find_searching" "<font color='#666666'>YOU CAN'T PLAY ON OFFICIAL SERVERS WITH THIS MOD!</font>"
+		"SFUI_QMM_ERROR_ClientUpdateRequired" "You can't play on official servers with this mod, set the lobby to PRIVATE to start a local server."
+
+		"SFUI_Lobby_MatchReadyButton" "<font color='#A0A0A0'>DONT DO IT!</font>"
+
+		"SFUI_GameModeCasualDesc" "Freely drop in and drop out of games using the Casual ruleset.\nBuy new weapons each round with money earned and win the round by eliminating the other team or completing the objective."
+		"SFUI_GameModeCasualDescList" "· Friendly fire is OFF\n· Team collision is ON\\n· Best out of 30 rounds"
+		"SFUI_GameModeCasualDescSP" "Buy new weapons each round with money earned.\nWin the round by eliminating the other team or completing the objective."
+		"SFUI_GameModeCasualDescSPList" "· Friendly fire is OFF\n· Team collision is ON\n· Best out of 30 rounds"
+
+		//"SFUI_MainMenu_PlayButton"			"<font color='#FFFFFF'>PLAY CLASSIC OFFENSIVE</font>"
+		"SFUI_MainMenu_PlayButton" "<font color='#FFFFFF'>PLAY</font>"
+		"SFUI_HOW TO PLAY" "<font color='#666666'>HOW TO PLAY</font>"
+		"SFUI_HelpMenu_HowToPlayButton" "<font color='#666666'>HOW TO PLAY</font>"
+		"SFUI_MainMenu_HelpButton" "<font color='#FFFFFF'>OPTIONS</font>"
+		"SFUI_MainMenu_Inventory" "<font color='#666666'>INVENTORY</font>"
+		"SFUI_MainMenu_Watch" "<font color='#666666'>WATCH</font>"
+		"SFUI_MainMenu_My_Awards" "<font color='#FFFFFF'>AWARDS</font>"
+
+		"SFUI_PauseMenu_ExitGameConfirmation_Message" "Do you wish to disconnect from the current server?"
+		//"SFUI_MainMenu_ExitGameConfirmation_Message" "Do you wish to stop playing now?"
+
+		"SFUI_GameMode_competitive" "<font color='#FFFFFF'>Competitive (You'll get a cooldown, don't!)</font>"
+
+		"SFUI_Lobby_public" "<font color='#666666'>Set this to Private</font>"
+		"SFUI_Lobby_private" "<font color='#FFFFFF'>Private Classic Offensive Match</font>"
+
+		"SFUI_HelpTitle" "OPTIONS"
+
+		"SFUI_PauseMenu_HelpButton" "<font color='#FFFFFF'>OPTIONS</font>"
+		"SFUI_PauseMenu_ExitGameButton" "<font color='#FFFFFF'>DISCONNECT</font>"
+
+		"SFUI_PauseMenu_SubPanelNav" "${cancel} <font color='#FFFFFF'>Back</font>"
+
+		"SFUI_BYT_TITLE" "<font color='#FFFFFF'>PLAY WITH FRIENDS</font>"
+		"SFUI_PlayMenu_BrowseServersButton" "<font color='#FFFFFF'>BROWSE COMMUNITY SERVERS</font>"
+		"SFUI_PlayMenu_WithBotsButton" "<font color='#FFFFFF'>OFFLINE WITH BOTS</font>"[$WIN32]
+		"SFUI_MainMenu_Training" "<font color='#FFFFFF'>CS:CO SHOOTING RANGE</font>"
+		"SFUI_PlayMenu_FriendsMatchButton" "<font color='#FFFFFF'>PLAY WITH FRIENDS</font>"[$WIN32 || $PS3]
+		"SFUI_BYT_TITLE" "<font color='#FFFFFF'>PLAY WITH FRIENDS</font>"
+		"SFUI_PlayMenu_CreateLobbyButton" "<font color='#FFFFFF'>PLAY WITH FRIENDS</font>"
+
+		"SFUI_MainMenu_StatsButton" "<font color='#FFFFFF'>STATS</font>"
+		"SFUI_MainMenu_MedalButton" "<font color='#FFFFFF'>ACHIEVEMENTS</font>"
+
+		"SFUI_LeaderboardDevice_Gamepad" "<font color='#666666'>Controller</font>"
+		"SFUI_HelpMenu_ControlsButton" "<font color='#666666'>CONTROLLER</font>"[$WIN32 || $OSX]
+		"SFUI_PLAYER_CONTROLS" "<font color='#666666'>CONTROLLER</font>"
+		"SFUI_HelpMenu_MouseKeyboardButton" "<font color='#FFFFFF'>KEYBOARD / MOUSE</font>"
+		"SFUI_HelpMenu_SettingsButton" "<font color='#FFFFFF'>GAME SETTINGS</font>"[$WIN32 || $OSX]
+		"SFUI_HelpMenu_VideoSettings" "<font color='#FFFFFF'>VIDEO SETTINGS</font>"
+		"SFUI_HelpMenu_AudioSettings" "<font color='#FFFFFF'>AUDIO SETTINGS</font>"
+		"SFUI_HelpMenu_CreditsButton" "<font color='#666666'>CREDITS</font>"
+
+		"SFUI_PlayMenu_BrowseServersButton" "<font color='#666666'>FIND SERVERS</font>"
+		"SFUI_PauseMenu_CallVoteButton" "<font color='#FFFFFF'>CALL VOTE</font>"
+		"SFUI_PauseMenu_SwitchTeamsButton" "<font color='#FFFFFF'>CHOOSE TEAM</font>"
+
+		"SFUI_PauseMenu_OpenLoadout" "<font color='#666666'>INVENTORY</font>"
+		"SFUI_PauseMenu_ResumeGameButton" "<font color='#FFFFFF'>RESUME GAME</font>"
+
+		//"SFUI_Store_Hint_default"			"<font color='#666666'>NOT AVAILABLE IN CLASSIC OFFENSIVE</font>"
+		"SFUI_Store_Hint_default" ""
+
+		"SFUI_Scoreboard_CompWins" "CS:GO Competitive Matches Won"
+
+		"SFUI_Maps_Workshop_Title" "<font color='#FFFFFF'>CS:GO Workshop</font>"
+		"SFUI_Maps_Offical_Title" "<font color='#FFFFFF'>Classic</font>"
+
+		"SFUI_Elevated_Status_Confirmed" ""
+
+		"SFUI_GameMode" "Mode"
+		"SFUI_GameModeClassic" "Classic"
+		"SFUI_GameModeCasual" "Classic"
+		//"SFUI_GameModeCompetitiveSP"			"<font color='#666666'>XXXXXXXXXXXX</font>"
+		//"SFUI_GameModeCompetitive"			"<font color='#666666'>XXXXXXXXXXXX</font>"
+		"SFUI_GameModeCompetitiveSP" ""
+		"SFUI_GameModeCompetitive" ""
+		"SFUI_Deathmatch" "Deathmatch"
+		"SFUI_Cooperative" "Guardian"
+		"SFUI_CoopMission" "Co-op Strike"
+		"SFUI_GameModeCustom" "Custom"
+		"SFUI_GameModeAll" "All Maps"
+		"SFUI_GameModeAny" "Any Mode"
+		//"SFUI_GameModeGungameProgressive"		"Arms Race"
+		//"SFUI_GameMode_gungameProgressive"		"Arms Race"
+		//"SFUI_GameModeGGProgressive"			"Arms Race"
+		"SFUI_GameModeGungameProgressive" "Guardian"
+		"SFUI_GameMode_gungameProgressive" "Guardian"
+		"SFUI_GameModeGGProgressive" "Guardian"
+		"SFUI_GameModeGGBomb" "Demolition"
+		"SFUI_GameModeGungameTrBomb" "Demolition"
+		"SFUI_GunGameTRMap" "Demolition"
+		"SFUI_GameModeDeathmatch" "Deathmatch"
+		"SFUI_GunGameProgressiveMap" "Arms Race"
+
+		//"SFUI_GameModeClassic"					"<font color='#FFFFFF'>Classic</font>"
+		//"SFUI_GameModeCasual"					"<font color='#FFFFFF'>Classic</font>"
+		//"SFUI_GameModeCompetitiveSP"			"<font color='#666666'>XXXXXXXXXXXX</font>"
+		//"SFUI_GameModeCompetitive"				"<font color='#666666'>XXXXXXXXXXXX</font>"
+		//"SFUI_Deathmatch"						"<font color='#FFFFFF'>Deathmatch</font>"
+		//"SFUI_Cooperative"						"<font color='#FFFFFF'>Guardian</font>"
+		//"SFUI_CoopMission"						"<font color='#FFFFFF'>Co-op Strike</font>"
+		//"SFUI_GameModeCustom"					"<font color='#FFFFFF'>Custom</font>"
+		//"SFUI_GameModeAll"						"<font color='#FFFFFF'>All Maps</font>"
+		//"SFUI_GameModeAny"						"<font color='#FFFFFF'>Any Mode</font>"
+		//"SFUI_GameModeGungameProgressive"		"<font color='#FFFFFF'>Arms Race</font>"
+		//"SFUI_GameMode_gungameProgressive"		"<font color='#FFFFFF'>Arms Race</font>"
+		//"SFUI_GameModeGGProgressive"			"<font color='#FFFFFF'>Arms Race</font>"
+		//"SFUI_GameModeGGBomb"					"<font color='#FFFFFF'>Demolition</font>"
+		//"SFUI_GameModeGungameTrBomb"			"<font color='#FFFFFF'>Demolition</font>"
+		//"SFUI_GunGameTRMap"						"<font color='#FFFFFF'>Demolition</font>"
+		//"SFUI_GameModeDeathmatch"				"<font color='#FFFFFF'>Deathmatch</font>"
+		//"SFUI_GunGameProgressiveMap"			"<font color='#FFFFFF'>Arms Race</font>"
+
+
+		"SFUI_GameModeGGProgressiveDesc" ""
+		"SFUI_GameModeGGProgressiveDescList" ""
+
+		"SFUI_GameModeGungameProgressiveDesc" ""
+		"SFUI_GameModeGungameProgressiveDescList" ""
+
+		"SFUI_GameModeCasualDesc" "Freely drop in and drop out of games using the Classic ruleset.\nBuy new weapons each round with money earned and win the round by eliminating the other team or completing the objective."
+		"SFUI_GameModeCasualDescList" "· Friendly fire is OFF\n· Team collision is ON\n· Best out of 15 rounds"
+		"SFUI_GameModeCasualDescSP" "Buy new weapons each round with money earned.\nWin the round by eliminating the other team or completing the objective."
+		"SFUI_GameModeCasualDescSPList" "· Friendly fire is OFF\n· Team collision is ON\n· Best out of 15 rounds"
+		"SFUI_GameModeCompetitiveDescSP" "" < font color = '#FF0000' > Not Availiable in Classic Offensive <  / font > ""
+			"SFUI_GameModeCompetitiveDescSPList" ""
+			"SFUI_GameModeCompetitiveDesc" "" < font color = '#FF0000' > Not Availiable in Classic Offensive <  / font > ""
+			"SFUI_GameModeCompetitiveDescList" ""
+			//"SFUI_GameModeGGProgressiveDesc"			"Upgrade your weapon by eliminating enemies.\nWin the match by being the first player to get a kill with the Golden Knife."
+			//"SFUI_GameModeGGProgressiveDescList"        "· Weapons are upgraded after eliminating enemies\n· Instant Respawn\n· Friendly fire is OFF\n· Team collision is OFF"
+			"SFUI_GameModeCooperativeDesc" "Complete missions on official servers.\nCompleting mission objectives earns rewards and XP."
+			"SFUI_GameModeCooperativeDescList" "· Eliminate enemies and follow mission objectives\n· Instant Respawn\n· Friendly fire is OFF\n· Team collision is OFF"
+			//"SFUI_GameModeGungameProgressiveDesc"		"Upgrade your weapon by eliminating enemies.\nWin the match by being the first player to get a kill with the Golden Knife."
+			//"SFUI_GameModeGungameProgressiveDescList"   "· Weapons are upgraded after eliminating enemies\n· Instant Respawn\n· Friendly fire is OFF\n· Team collision is OFF"
+			"SFUI_GameModeGGBombDesc" "Upgrade your weapon by getting kills.\nWin the round by eliminating the other team or completing the objective."
+			"SFUI_GameModeGGBombDescList" "· Weapons awarded on round start\n· Friendly fire is OFF\n· Team collision is off\n· Best out of 20 rounds"
+			"SFUI_GameModeGungameTrBombDesc" "Upgrade your weapon by getting kills.\nWin the round by eliminating the other team or completing the objective."
+			"SFUI_GameModeGungameTrBombDescList" "· Weapons awarded on round start\n· Friendly fire is OFF\n· Team collision is off\n· Best out of 20 rounds"
+			"SFUI_DeathmatchDesc" "Win the match by having the most points at the end.\nKills with different weapons are worth different point amounts.\nTake advantage of the bonus timers to increase your score."
+			"SFUI_DeathmatchDescList" "· Weapons are chosen at spawn using the Buy Menu.\n· Friendly fire is OFF.\n· Team collision is off.\n· 10 minute rounds."
+			"SFUI_GameModeDeathmatchDesc" "Win the match by having the most points at the end.\nKills with different weapons are worth different point amounts.\nTake advantage of the bonus timers to increase your score."
+			"SFUI_GameModeDeathmatchDescList" "· Weapons are chosen at spawn using the Buy Menu.\n· Friendly fire is OFF.\n· Team collision is off.\n· 10 minute rounds."
+
+			"SFUI_Rules_Hostage_Loading_Classic" ""
+			"SFUI_Rules_ClassicCas_Unknown" ""
+			"SFUI_Rules_Bomb_Loading_Classic" ""
+
+			"Button_Spray" "<font color='#666666'>Graffiti</font>"
+
+			"SFUI_MainMenu_News_Title" "CS:GO News"
+			"SFUI_Store_Market_Link" "Open CS:GO Market"
+
+			"CSGO_No_Sprays" "<font color='#666666'>Graffiti Aren't Supported</font>"
+			"CSGO_No_Spray_Equipped" "<font color='#666666'>Graffiti Aren't Supported</font>"
+			"Attrib_SpraysHint" "<font color='#666666'>Graffiti Aren't Supported</font>"
+
+			//====================================
+			// MAPS
+			//====================================
+
+			"SFUI_Map_Tooltip_Desc_Classic_Op_over" "<font color='#FFFFFF'>This map is an official</font> <font color='#FFFFFF'>Classic Offensive</font> <font color='#FFFFFF'>map</font>"
+			"SFUI_Map_mg_de_dust2_winter_desc" "<font color='#666666'>This map is an official</font> <font color='#00FF00'>Classic Offensive</font> <font color='#666666'>event map</font>"
+
+			"SFUI_Map_de_dust2_winter_csco" "Dust II - Winter"
+			"SFUI_Map_fy_snow_csco" "Fight/Yard Snow"
+			"SFUI_Map_fy_pool_day_csco" "Fight/Yard Pool Day"
+			"SFUI_Map_aim_map_csco" "Combat/Skill Desert (aim_map)"
+			"SFUI_Map_guardianloader_csco" "Loading a random map..."
+
+			"SFUI_Map_de_dust2_csco" "Dust II"
+			"SFUI_Map_de_inferno_csco" "Inferno"
+			"SFUI_Map_de_mirage_csco" "Mirage"
+			"SFUI_Map_de_piranesi_csco" "Piranesi"
+			"SFUI_Map_cs_italy_csco" "Italy"
+			"SFUI_Map_tr_shootingrange_csco" "Shooting Range"
+			"SFUI_Rules_Training_Loading" ""
+
+			//-------------------------------------------------------------------
+
+			"SFUI_Map_fy_pool_day" "Fight/Yard Pool Day"
+			"SFUI_Map_de_mirage_csco_desc" "<font color='#FFFFFF'>This map is an official</font> <font color='#FFFFFF'>Classic Offensive</font> <font color='#FFFFFF'>map</font>, <font color='#FFFFFF'>Original CE version by <font color='#FFFFFF'>MadMax, BubkeZ <font color='#FFFFFF'>and</font> <font color='#FFFFFF'>cashed</font>"
+			"SFUI_Map_fy_pool_day_desc" "<font color='#FFFFFF'>This map is a placeholder from the WORKSHOP remade by</font> <font color='#FFFFFF'>leplubodeslapin</font>"
+
+			//====================================
+			// RADIO
+			//====================================
+
+
+			"SFUI_StandardRadio" "<font color='#FFFFFF'>Standard Radio Message</font>"
+			"SFUI_GroupRadio" "<font color='#FFFFFF'>Group Radio Message</font>"
+			"SFUI_ReportRadio" "<font color='#FFFFFF'>Report Radio Message</font>"
+			"SFUI_CommandRadio" "<font color='#FFFFFF'>Command Radio Message</font>"
+
+			"SFUI_Radio_Cover_Me" "<font color='#FFFFFF'>Cover Me</font>"
+			"SFUI_Radio_Take_Point" "<font color='#FFFFFF'>You Take the Point</font>"
+			"SFUI_Radio_Hold_Pos" "<font color='#FFFFFF'>Hold This Position</font>"
+			"SFUI_Radio_Follow" "<font color='#FFFFFF'>Follow Me</font>"
+			"SFUI_Radio_Need_Assist" "<font color='#FFFFFF'>Taking Fire, Need Assistance</font>"
+			"SFUI_Radio_Get_In" "<font color='#FFFFFF'>Get in Position</font>"
+
+			"SFUI_Radio_Go" "<font color='#FFFFFF'>GO</font>"
+			"SFUI_Radio_Fall_Back" "<font color='#FFFFFF'>Fall Back</font>"
+			"SFUI_Radio_Stick_Together" "<font color='#FFFFFF'>Stick Together Team</font>"
+			"SFUI_Radio_Regroup" "<font color='#FFFFFF'>Regroup Team</font>"
+			"SFUI_Radio_Storm_Front" "<font color='#FFFFFF'>Storm the Front</font>"
+			"SFUI_Radio_Report_In" "<font color='#FFFFFF'>Report In</font>"
+
+			"SFUI_Radio_Roger" "<font color='#FFFFFF'>Affirmative/Roger</font>"
+			"SFUI_Radio_Spotted" "<font color='#FFFFFF'>Enemy Spotted</font>"
+			"SFUI_Radio_Need_Backup" "<font color='#FFFFFF'>Need Backup</font>"
+			"SFUI_Radio_Sector_Clear" "<font color='#FFFFFF'>Sector Clear</font>"
+			"SFUI_Radio_In_Position" "<font color='#FFFFFF'>I'm in Position</font>"
+			"SFUI_Radio_Reporting_Int" "<font color='#FFFFFF'>Reporting In</font>"
+			"SFUI_Radio_Shes_Gonna_Blow" "<font color='#FFFFFF'>She's gonna Blow!</font>"
+			"SFUI_Radio_Negative" "<font color='#FFFFFF'>Negative</font>"
+			"SFUI_Radio_Enemy_Down" "<font color='#FFFFFF'>Enemy Down</font>"
+
+			"SFUI_Radio_Exit" "0. <font color='#FFFFFF'>Exit</font>"
+
+			"SFUI_TitlesTXT_Fire_in_the_hole" "Fire in the hole!"
+			"SFUI_TitlesTXT_Molotov_in_the_hole" "Fire in the hole!"
+			"SFUI_TitlesTXT_Incendiary_in_the_hole" "Fire in the hole!"
+			"SFUI_TitlesTXT_Flashbang_in_the_hole" "Fire in the hole!"
+			"SFUI_TitlesTXT_Smoke_in_the_hole" "Fire in the hole!"
+			"SFUI_TitlesTXT_Decoy_in_the_hole" "Fire in the hole!"
+
+			"Cstrike_TitlesTXT_Thanks" "Get in Position!"
+			"Cstrike_TitlesTXT_Cheer" "Storm the Front!"
+
+			//====================================
+			// MENU OUTDATED MESSAGE
+			//====================================
+
+			"SFUI_MainMenu_Outofdate_Title" "<font color='#FFFFFF'>You're running</font> - </font><font color='#FFFFFF'>Counter-Strike: Classic Offensive </font><font color='#33FF33'>[BETA 1.1d]</font>"
+			"SFUI_MainMenu_Outofdate_Body"				"<font color='#FF0000'> Do not try to go on ranked or on official servers with the mod.</font><font color='#FFFFFF'>     - </font><font color='#66A8FF'>Zo</font><font color='#FF6666'>oL</font>"
+
+			//====================================
+			// STATTRAK AND OTHER
+			//====================================
+
+
+			"normal" ""
+			"unique" ""
+			"vintage" ""
+			"community" ""
+			"developer" ""
+			"selfmade" ""
+			"customized" ""
+			"unusual" ""
+			"tournament" ""
+			"genuine" ""
+			"customized" ""
+			"rarity3" ""
+			"rarity4" ""
+			"strange" ""
+			"completed" ""
+			"Attrib_KillEater" ""
+
+			"CSGO_FakePlayer_Phoenix" "<font color='#00FF00'>HECU Soldier</font>"
+
+			"CSGO_KillEater_Hud" ""
+			"SFUI_Store_Has_StatTrak" ""
+			"KillEaterRank0" ""
+			"KillEaterRank1" ""
+			"KillEaterRank2" ""
+			"KillEaterRank3" ""
+			"KillEaterRank4" ""
+			"KillEaterRank5" ""
+			"KillEaterRank6" ""
+			"KillEaterRank7" ""
+			"KillEaterRank8" ""
+			"KillEaterRank9" ""
+			"KillEaterRank10" ""
+			"KillEaterRank11" ""
+			"KillEaterRank12" ""
+
+			"ItemNameUniqueFormat" "%s1%s2%s3" // will turn into "The Battalion's Backup #1"; foreign languages that have gender/declension can change this to be "Shotgun #1" or whatever
+			"ItemNameWithQualityFormat" "%s2" // will turn into "Strange Shotgun #1"; foreign languages that have gender for adjectives can change this to be "Shotgun #1 (Strange)" or whatever
+			"ItemNameCraftNumberFormat" ""
+
+			"SFUI_BuyMenu_NotAllowedByTeam" ""
+
+	}
+}
