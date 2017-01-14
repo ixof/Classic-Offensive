@@ -1,0 +1,28 @@
+This mod is in beta, everything is subject to change!
+
+-------------------------------------------------------------------------------
+	How To Install (for servers)
+-------------------------------------------------------------------------------
+
+- Unzip the file into your Server root folder (same spot as "srcds.exe")
+	
+- Run your server with the "-game csco" instead of "-game csgo"
+
+- Be sure to load a map existing in Classic Offensive such as "de_dust2_csco"
+
+- Sourcemods will work though won't be compatible with CS:GO's plugins
+
+- Someone told me it's possible to fix it by editing the files in 
+	sourcemod\gamedata\core.games 
+
+- To connect to your server, just use "connect YOURIP:YOURPORT" in the console
+since the serverbrowser doesn't seems to work with CS:CO
+
+- Be sure to share the IP
+	
+				============================
+				     Thanks for reading!
+					   And Good Luck!
+				============================
+
+- ZooL
