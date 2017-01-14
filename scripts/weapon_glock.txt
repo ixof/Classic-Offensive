@@ -54,7 +54,7 @@ WeaponData
     InaccuracyJumpAlt               0.15
     InaccuracyLandAlt               0
     InaccuracyLadderAlt             119.25
-    InaccuracyFireAlt               70.00 
+    InaccuracyFireAlt               50.00 
     InaccuracyMoveAlt               12.95
                                  
     RecoveryTimeCrouch              0.331572

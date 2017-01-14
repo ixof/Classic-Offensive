@@ -61,7 +61,7 @@
 						
                         "mg_fy_snow_csco"		"10"  
                         "mg_fy_pool_day_csco"		"11"  
-						//
+                        "mg_aim_map_csco"		"12"  
 						//
 						//
 						
@@ -102,7 +102,7 @@
 						
                         "mg_fy_snow_csco"		"10"  
                         "mg_fy_pool_day_csco"		"11"  
-						//
+                        "mg_aim_map_csco"		"12"  
 						//
 						//
 						
@@ -401,8 +401,8 @@
 						//
 						
                         "mg_fy_snow_csco"		"10"  
-                        "mg_fy_pool_day_csco"		"11"  
-						//
+                        "mg_fy_pool_day_csco"		"11"   
+                        "mg_aim_map_csco"		"12"  
 						//
 						//
 						
@@ -442,8 +442,8 @@
 						//
 						
                         "mg_fy_snow_csco"		"10"  
-                        "mg_fy_pool_day_csco"		"11"  
-						//
+                        "mg_fy_pool_day_csco"		"11"   
+                        "mg_aim_map_csco"		"12"  
 						//
 						//
 						
@@ -866,6 +866,19 @@
 			"maps"
 			{
 				"fy_snow_csco"		""
+			}
+		}
+		
+		"mg_aim_map_csco"
+		{
+			"imagename"		"map-random-ar"
+			"nameID"		"#SFUI_Map_aim_map_csco"
+			"tooltipID"		"#SFUI_Map_Tooltip_Desc_Classic_Op_over"
+			"name"			"mg_de_dust2"
+            "grouptype"     "op_breakout"
+			"maps"
+			{
+				"aim_map_csco"		""
 			}
 		}
 		
@@ -2135,6 +2148,31 @@
 				"models/player/custom_player/legacy/ctm_st6_variant_urban.mdl"		""
 				"models/player/custom_player/legacy/ctm_st6_variant_urban.mdl"		""
 				"models/player/custom_player/legacy/ctm_st6_variant_urban.mdl"		""
+			}
+		}
+		
+		"aim_map_csco"
+		{
+			"nameID"			"#SFUI_Map_de_dust2"
+			"name"				"aim_map_csco"
+			"imagename"			"map-dust2-overall"
+			"default_game_type"		"0" // classic
+			"default_game_mode"		"0" // casual
+			"t_models"
+			{
+				"models/player/custom_player/legacy/tm_phoenix_variant_leet_r.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix_variant_leet_r.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix_variant_leet_r.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix_variant_leet_r.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix_variant_leet_r.mdl"		""
+			}
+			"ct_models"
+			{
+				"models/player/custom_player/legacy/tm_phoenix_variant_leet_b.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix_variant_leet_b.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix_variant_leet_b.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix_variant_leet_b.mdl"		""
+				"models/player/custom_player/legacy/tm_phoenix_variant_leet_b.mdl"		""
 			}
 		}
 		

@@ -25,7 +25,7 @@ WeaponData
 	"CrosshairDeltaDistance"	"2"
 	"Team"				"ANY"
 	"BuiltRightHanded"		"1"
-	"PlayerAnimationExtension"	"mp7"
+	"PlayerAnimationExtension"	"m4"
 	
 	"CanEquipWithShield"		"0"
 	

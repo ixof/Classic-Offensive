@@ -106,7 +106,7 @@
 
 "Default.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"pitch"			"PITCH_NORM"
 	"volume"		"1"
 	"rndwave"
@@ -121,7 +121,7 @@
 
 "Flesh.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"pitch"			"96,104"
 	"volume"		"1"
 	"rndwave"
@@ -281,7 +281,7 @@
 
 "SolidMetal.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"pitch"			"PITCH_NORM"
 	"volume"		"1"
 	"rndwave"
@@ -513,7 +513,7 @@
 
 "Dirt.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -739,7 +739,7 @@
 
 "MetalGrate.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -880,7 +880,7 @@
 
 "Tile.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -1252,7 +1252,7 @@
 
 "Glass.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -1361,7 +1361,7 @@
 
 "Pottery.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"0.7"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -1377,7 +1377,7 @@
 
 "Computer.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -1445,7 +1445,7 @@
 
 "WeaponMagazine.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -1523,7 +1523,7 @@
 
 "Concrete.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -1830,7 +1830,7 @@
 
 "ChainLink.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -1887,7 +1887,7 @@
 
 "Chain.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -2098,7 +2098,7 @@
 
 "Carpet.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -2181,7 +2181,7 @@
 
 "Sand.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -2214,7 +2214,7 @@
 
 "Watermelon.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -2238,7 +2238,7 @@
 
 "ArmorFlesh.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -2254,7 +2254,7 @@
 
 "Metal_SeafloorCar.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"0.7"
 	"pitch"			"PITCH_NORM"
 	"wave"		"doors/heavy_metal_stop1.wav"
@@ -2343,7 +2343,7 @@
 
 "GlassBottle.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -2480,7 +2480,7 @@
 
 "Metal_Barrel.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -2546,7 +2546,7 @@
 
 "Popcan.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -2694,7 +2694,7 @@
 
 "ceiling_tile.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -2854,7 +2854,7 @@
 
 "SandBarrel.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -2945,7 +2945,7 @@
 	"channel"	"CHAN_VOICE"
 	"soundlevel"  		"SNDLVL_NORM"
 	"volume"		"1.0"
-	"soundlevel"  		"SNDLVL_85dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"rndwave"
 	{
 		"wave"	")physics/metal/metal_box_break1.wav"
@@ -3021,7 +3021,7 @@
 {
 	"channel"	"CHAN_BODY"
 	"volume"		"1.0"
-	"soundlevel"  		"SNDLVL_85dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"rndwave"
 	{
 		"wave"	")debris/bustmetal1.wav"
@@ -3270,7 +3270,7 @@
 "Cardboard.BulletImpact"
 {
 	"channel"		"CHAN_BODY"
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"pitch"		"PITCH_NORM"
 	"volume"	"1.0"
 	"rndwave"
@@ -3438,7 +3438,7 @@
 "Plastic_Barrel.BulletImpact"
 {
 	"channel"		"CHAN_BODY"
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"pitch"		"96,104"
 	"volume"	"1.0"
 	"rndwave"
@@ -3604,7 +3604,7 @@
 "Plastic_Box.BulletImpact"
 {
 	"channel"		"CHAN_BODY"
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"pitch"		"96,104"
 	"volume"	"1.0"
 	"rndwave"
@@ -3730,7 +3730,7 @@
 "Rubber.BulletImpact"
 {
 	"channel"		"CHAN_BODY"
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"pitch"		"90,96"
 	"volume"	"0.7"
 	"rndwave"
@@ -3795,7 +3795,7 @@
 "Rubber_Tire.BulletImpact"
 {
 	"channel"		"CHAN_BODY"
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"pitch"		"96,104"
 	"volume"	"1.0"
 	"rndwave"
@@ -3989,7 +3989,7 @@
 
 "Wood.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -4135,7 +4135,7 @@
 
 "Wood_Box.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -4351,7 +4351,7 @@
 
 "Wood_Plank.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -4443,7 +4443,7 @@
 
 "Wood_Solid.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -4627,7 +4627,7 @@
 
 "Wood_Panel.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -4772,7 +4772,7 @@
 
 "Metal_Box.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -4834,7 +4834,7 @@
 	"soundlevel"  		"SNDLVL_NORM"
 	"volume"		"1.0"
 	"pitch"		"98,100"
-	"soundlevel"  		"SNDLVL_85dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"rndwave"
 	{
 		"wave"	")physics/metal/metal_box_break1.wav"
@@ -4937,7 +4937,7 @@
 
 "weapon.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_65dB"
+	"soundlevel"  		"SNDLVL_80dB"
 	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"

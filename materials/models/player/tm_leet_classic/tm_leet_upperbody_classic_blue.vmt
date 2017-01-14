@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\tm_leet_classic\tm_leet_upperbody_classic_blue"
+	"$bumpmap" "models\player\tm_leet\tm_leet_upperbody_variantB_normal"
+	"$phongexponenttexture" "models\player\tm_leet\tm_leet_upperbody_variantB_exponent"
+	"$notint" "1"
+}

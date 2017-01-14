@@ -6635,7 +6635,7 @@
 {
 	"channel"		"CHAN_STATIC"
 	"volume"		"1"
-	"soundlevel"	"SNDLVL_80dB"
+	"soundlevel"	"SNDLVL_110dB"
 	"wave"			"weapons/c4/c4_detonate.wav"
 }
 

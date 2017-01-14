@@ -2,6 +2,7 @@
 {
 	"$baseTexture" "models\player\tm_leet_classic\tm_leet_head_classic"
 	"$bumpmap" "models\player\tm_leet\tm_elite_head_variantB_normal"
+	"$notint" "1"
 	
 	"$phong" "1"
 	"$envmap" "env_cubemap"

@@ -1759,7 +1759,7 @@
 	"channel"		"CHAN_STATIC"
 	"volume"		"1"
 	"soundlevel"  	"SNDLVL_100dB"
-	"pitch"		"80,120"
+	"pitch"		"85,100"
 
 	"rndwave"
 	{

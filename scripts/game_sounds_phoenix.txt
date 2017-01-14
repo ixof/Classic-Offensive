@@ -4,7 +4,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_affirm.wav"
+		"wave"		"radio_csco\ct_affirm.wav"
 }
 
 "phoenix.affirmative02"
@@ -12,7 +12,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_affirm.wav"
+		"wave"		"radio_csco\ct_affirm.wav"
 }
 
 "phoenix.affirmative03"
@@ -20,7 +20,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_affirm.wav"
+		"wave"		"radio_csco\ct_affirm.wav"
 }
 
 "phoenix.agree01"
@@ -28,7 +28,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "phoenix.agree02"
@@ -36,7 +36,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "phoenix.agree03"
@@ -44,7 +44,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "phoenix.agree04"
@@ -52,7 +52,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "phoenix.agree06"
@@ -60,7 +60,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "phoenix.agree07"
@@ -68,7 +68,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "phoenix.blinded01"
@@ -100,7 +100,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\getout.wav"
+		"wave"		"radio_csco\getout.wav"
 }
 
 "phoenix.bombtickingdown02"
@@ -108,7 +108,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "phoenix.bombtickingdown03"
@@ -116,7 +116,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "phoenix.bombtickingdown04"
@@ -124,7 +124,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "phoenix.bombtickingdown05"
@@ -132,7 +132,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "phoenix.clear01"
@@ -140,7 +140,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\clear.wav"
+		"wave"		"radio_csco\clear.wav"
 }
 
 "phoenix.clear02"
@@ -148,7 +148,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\clear.wav"
+		"wave"		"radio_csco\clear.wav"
 }
 
 "phoenix.clear03"
@@ -156,7 +156,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\clear.wav"
+		"wave"		"radio_csco\clear.wav"
 }
 
 "phoenix.clearedarea01"
@@ -164,7 +164,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\clear.wav"
+		"wave"		"radio_csco\clear.wav"
 }
 
 "phoenix.clearedarea02"
@@ -172,7 +172,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\clear.wav"
+		"wave"		"radio_csco\clear.wav"
 }
 
 "phoenix.clearedarea03"
@@ -180,7 +180,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\clear.wav"
+		"wave"		"radio_csco\clear.wav"
 }
 
 "phoenix.coveringfriend01"
@@ -188,7 +188,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fireassis.wav"
+		"wave"		"radio_csco\fireassis.wav"
 }
 
 "phoenix.coveringfriend02"
@@ -196,7 +196,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fireassis.wav"
+		"wave"		"radio_csco\fireassis.wav"
 }
 
 "phoenix.coveringfriend03"
@@ -204,7 +204,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fireassis.wav"
+		"wave"		"radio_csco\fireassis.wav"
 }
 
 "phoenix.coverme01"
@@ -212,7 +212,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_coverme.wav"
+		"wave"		"radio_csco\ct_coverme.wav"
 }
 
 "phoenix.coverme02"
@@ -220,7 +220,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_coverme.wav"
+		"wave"		"radio_csco\ct_coverme.wav"
 }
 
 "phoenix.coverme03"
@@ -228,7 +228,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_coverme.wav"
+		"wave"		"radio_csco\ct_coverme.wav"
 }
 
 "phoenix.defendingbombsitea01"
@@ -308,7 +308,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "phoenix.disagree02"
@@ -316,7 +316,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "phoenix.disagree03"
@@ -324,7 +324,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "phoenix.disagree05"
@@ -332,7 +332,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "phoenix.disagree06"
@@ -340,7 +340,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "phoenix.enemydown01"
@@ -348,7 +348,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "phoenix.enemydown02"
@@ -356,7 +356,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "phoenix.enemydown03"
@@ -364,7 +364,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "phoenix.enemydown04"
@@ -372,7 +372,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "phoenix.enemydown05"
@@ -380,7 +380,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "phoenix.enemydown06"
@@ -388,7 +388,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "phoenix.enemydown07"
@@ -396,7 +396,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "phoenix.enemydown08"
@@ -404,7 +404,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "phoenix.enemydown09"
@@ -412,7 +412,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "phoenix.followingfriend01"
@@ -420,7 +420,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\takepoint.wav"
+		"wave"		"radio_csco\takepoint.wav"
 }
 
 "phoenix.followingfriend02"
@@ -428,7 +428,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\takepoint.wav"
+		"wave"		"radio_csco\takepoint.wav"
 }
 
 "phoenix.followingfriend03"
@@ -436,7 +436,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\takepoint.wav"
+		"wave"		"radio_csco\takepoint.wav"
 }
 
 "phoenix.followingfriend04"
@@ -444,7 +444,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\takepoint.wav"
+		"wave"		"radio_csco\takepoint.wav"
 }
 
 "phoenix.followingfriend05"
@@ -452,7 +452,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\takepoint.wav"
+		"wave"		"radio_csco\takepoint.wav"
 }
 
 "phoenix.friendlyfire01"
@@ -668,7 +668,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\hitassist.wav"
+		"wave"		"radio_csco\hitassist.wav"
 }
 
 "phoenix.help02"
@@ -676,7 +676,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "phoenix.help03"
@@ -684,7 +684,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "phoenix.help04"
@@ -692,7 +692,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "phoenix.help05"
@@ -700,7 +700,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "phoenix.incombat01"
@@ -788,7 +788,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_inpos.wav"
+		"wave"		"radio_csco\ct_inpos.wav"
 }
 
 "phoenix.inposition02"
@@ -796,7 +796,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_inpos.wav"
+		"wave"		"radio_csco\ct_inpos.wav"
 }
 
 "phoenix.inposition03"
@@ -804,7 +804,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_inpos.wav"
+		"wave"		"radio_csco\ct_inpos.wav"
 }
 
 "phoenix.killedfriend01"
@@ -940,7 +940,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "phoenix.negative02"
@@ -948,7 +948,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "phoenix.negative03"
@@ -956,7 +956,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "phoenix.negative04"
@@ -964,7 +964,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "phoenix.negativeno05"
@@ -972,7 +972,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "phoenix.niceshot01"
@@ -1084,7 +1084,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag02"
@@ -1092,7 +1092,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag03"
@@ -1100,7 +1100,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag04"
@@ -1108,7 +1108,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag05"
@@ -1116,7 +1116,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag06"
@@ -1124,7 +1124,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag07"
@@ -1132,7 +1132,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag08"
@@ -1140,7 +1140,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag09"
@@ -1148,7 +1148,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag10"
@@ -1156,7 +1156,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag11"
@@ -1164,7 +1164,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag12"
@@ -1172,7 +1172,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag13"
@@ -1180,7 +1180,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag14"
@@ -1188,7 +1188,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.onarollbrag15"
@@ -1196,7 +1196,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.oneenemyleft04"
@@ -1204,7 +1204,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.oneenemyleft05"
@@ -1212,7 +1212,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "phoenix.oneenemyleft06"
@@ -1380,7 +1380,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "phoenix.radio_enemyspotted02"
@@ -1388,7 +1388,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "phoenix.radio_enemyspotted03"
@@ -1396,7 +1396,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "phoenix.radio_enemyspotted04"
@@ -1404,7 +1404,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "phoenix.radio_followme01"
@@ -1412,7 +1412,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "phoenix.radio_followme02"
@@ -1420,7 +1420,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "phoenix.radio_followme03"
@@ -1428,7 +1428,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "phoenix.radio_followme04"
@@ -1436,7 +1436,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "phoenix.radio_followme05"
@@ -1444,7 +1444,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "phoenix.radio_followme06"
@@ -1452,7 +1452,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "phoenix.radio_letsgo01"
@@ -1460,7 +1460,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_letsgo02"
@@ -1468,7 +1468,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_letsgo03"
@@ -1476,7 +1476,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_letsgo04"
@@ -1484,7 +1484,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_letsgo05"
@@ -1492,7 +1492,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_letsgo06"
@@ -1500,7 +1500,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_letsgo07"
@@ -1508,7 +1508,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_letsgo08"
@@ -1516,7 +1516,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_letsgo09"
@@ -1524,7 +1524,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_locknload01"
@@ -1532,7 +1532,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_locknload02"
@@ -1540,7 +1540,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\go.wav"
+		"wave"		"radio_csco\go.wav"
 }
 
 "phoenix.radio_locknload03"
@@ -1548,7 +1548,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\locknload.wav"
+		"wave"		"radio_csco\locknload.wav"
 }
 
 "phoenix.radio_locknload04"
@@ -1556,7 +1556,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\moveout.wav"
+		"wave"		"radio_csco\moveout.wav"
 }
 
 "phoenix.radio_locknload05"
@@ -1564,7 +1564,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\go.wav"
+		"wave"		"radio_csco\go.wav"
 }
 
 "phoenix.radio_locknload06"
@@ -1572,7 +1572,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_locknload07"
@@ -1580,7 +1580,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\locknload.wav"
+		"wave"		"radio_csco\locknload.wav"
 }
 
 "phoenix.radio_locknload08"
@@ -1588,7 +1588,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\moveout.wav"
+		"wave"		"radio_csco\moveout.wav"
 }
 
 "phoenix.radio_locknload09"
@@ -1596,7 +1596,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\go.wav"
+		"wave"		"radio_csco\go.wav"
 }
 
 "phoenix.radio_locknload10"
@@ -1604,7 +1604,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "phoenix.radio_locknload11"
@@ -1612,7 +1612,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\locknload.wav"
+		"wave"		"radio_csco\locknload.wav"
 }
 
 "phoenix.radio_locknload12"
@@ -1620,7 +1620,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\moveout.wav"
+		"wave"		"radio_csco\moveout.wav"
 }
 
 "phoenix.radio_needbackup01"
@@ -1628,7 +1628,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "phoenix.radio_needbackup02"
@@ -1636,7 +1636,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "phoenix.radio_needbackup03"
@@ -1644,7 +1644,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "phoenix.radio_needbackup05"
@@ -1652,7 +1652,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "phoenix.radio_needbackup06"
@@ -1660,7 +1660,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "phoenix.radio_takingfire01"
@@ -1668,7 +1668,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\hitassist.wav"
+		"wave"		"radio_csco\hitassist.wav"
 }
 
 "phoenix.radio_takingfire02"
@@ -1676,7 +1676,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\hitassist.wav"
+		"wave"		"radio_csco\hitassist.wav"
 }
 
 "phoenix.radio_takingfire03"
@@ -1684,7 +1684,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fireassis.wav"
+		"wave"		"radio_csco\fireassis.wav"
 }
 
 "phoenix.radio_takingfire04"
@@ -1692,7 +1692,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fireassis.wav"
+		"wave"		"radio_csco\fireassis.wav"
 }
 
 "phoenix.radio_takingfire05"
@@ -1700,7 +1700,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fireassis.wav"
+		"wave"		"radio_csco\fireassis.wav"
 }
 
 "phoenix.radio_takingfire06"
@@ -1708,7 +1708,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fireassis.wav"
+		"wave"		"radio_csco\fireassis.wav"
 }
 
 "phoenix.radiobotendclean01"
@@ -1828,7 +1828,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\getout.wav"
+		"wave"		"radio_csco\getout.wav"
 }
 
 "phoenix.radiobotfallback02"
@@ -1836,7 +1836,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fallback.wav"
+		"wave"		"radio_csco\fallback.wav"
 }
 
 "phoenix.radiobotfallback03"
@@ -1844,7 +1844,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fallback.wav"
+		"wave"		"radio_csco\fallback.wav"
 }
 
 "phoenix.radiobothold01"
@@ -1852,7 +1852,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\position.wav"
+		"wave"		"radio_csco\position.wav"
 }
 
 "phoenix.radiobothold02"
@@ -1860,7 +1860,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\position.wav"
+		"wave"		"radio_csco\position.wav"
 }
 
 "phoenix.radiobothold03"
@@ -1868,7 +1868,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\position.wav"
+		"wave"		"radio_csco\position.wav"
 }
 
 "phoenix.radiobotregroup01"
@@ -1876,7 +1876,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\regroup.wav"
+		"wave"		"radio_csco\regroup.wav"
 }
 
 "phoenix.radiobotregroup02"
@@ -1884,7 +1884,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\regroup.wav"
+		"wave"		"radio_csco\regroup.wav"
 }
 
 "phoenix.radiobotregroup03"
@@ -1892,7 +1892,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\regroup.wav"
+		"wave"		"radio_csco\regroup.wav"
 }
 
 "phoenix.reportingin01"
@@ -1900,7 +1900,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_reportingin.wav"
+		"wave"		"radio_csco\ct_reportingin.wav"
 }
 
 "phoenix.reportingin02"
@@ -1908,7 +1908,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_reportingin.wav"
+		"wave"		"radio_csco\ct_reportingin.wav"
 }
 
 "phoenix.reportingin03"
@@ -1916,7 +1916,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_reportingin.wav"
+		"wave"		"radio_csco\ct_reportingin.wav"
 }
 
 "phoenix.reportingin04"
@@ -1924,7 +1924,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_reportingin.wav"
+		"wave"		"radio_csco\ct_reportingin.wav"
 }
 
 "phoenix.requestreport01"
@@ -1932,7 +1932,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_reportin.wav"
+		"wave"		"radio_csco\com_reportin.wav"
 }
 
 "phoenix.requestreport02"
@@ -1940,7 +1940,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_reportin.wav"
+		"wave"		"radio_csco\com_reportin.wav"
 }
 
 "phoenix.requestreport03"
@@ -1948,7 +1948,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_reportin.wav"
+		"wave"		"radio_csco\com_reportin.wav"
 }
 
 "phoenix.scaredemote01"
@@ -2164,7 +2164,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_decoy02"
@@ -2172,7 +2172,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_decoy03"
@@ -2180,7 +2180,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_flashbang01"
@@ -2188,7 +2188,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_flashbang02"
@@ -2196,7 +2196,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_flashbang03"
@@ -2204,7 +2204,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_grenade02"
@@ -2212,7 +2212,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_grenade04"
@@ -2220,7 +2220,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_grenade05"
@@ -2228,7 +2228,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_molotov01"
@@ -2236,7 +2236,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_molotov02"
@@ -2244,7 +2244,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_molotov03"
@@ -2252,7 +2252,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_molotov04"
@@ -2260,7 +2260,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_molotov05"
@@ -2268,7 +2268,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_molotov07"
@@ -2276,7 +2276,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_smoke01"
@@ -2284,7 +2284,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_smoke02"
@@ -2292,7 +2292,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.t_smoke03"
@@ -2300,7 +2300,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "phoenix.thanks01"
@@ -2308,7 +2308,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_getinpos.wav"
+		"wave"		"radio_csco\com_getinpos.wav"
 }
 
 "phoenix.thanks02"
@@ -2316,7 +2316,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_getinpos.wav"
+		"wave"		"radio_csco\com_getinpos.wav"
 }
 
 "phoenix.thanks04"
@@ -2324,7 +2324,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_getinpos.wav"
+		"wave"		"radio_csco\com_getinpos.wav"
 }
 
 "phoenix.threeenemiesleft01"

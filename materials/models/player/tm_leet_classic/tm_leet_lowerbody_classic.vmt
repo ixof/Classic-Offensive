@@ -5,7 +5,7 @@
 	{	
 	"$baseTexture" "models\player\tm_leet_classic\tm_leet_lowerbody_classic"
 	"$bumpmap" "models\player\tm_separatist\tm_separatist_lowerbody_variantB_normal"
-
+	"$notint" "1"
 	"$phongexponenttexture" "models\player\tm_separatist\tm_separatist_lowerbody_variantB_exponent"
 	"$rimmask" "1"
 	}	

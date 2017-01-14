@@ -837,7 +837,7 @@
 	"volume"		"1"
 	"soundlevel"	"SNDLVL_GUNFIRE"
 
-	"wave"			"radio/YouHaveBomb02.wav"
+	"wave"			"radio_csco/YouHaveBomb02.wav"
 }
 
 "Player.PlayerWasGivenDefuser"
@@ -846,7 +846,7 @@
 	"volume"		"1"
 	"soundlevel"	"SNDLVL_GUNFIRE"
 
-	"wave"			"radio/YouHaveDefuseKit02.wav"
+	"wave"			"radio_csco/YouHaveDefuseKit02.wav"
 }
 
 "Player.Respawn"

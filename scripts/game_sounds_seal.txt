@@ -4,7 +4,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_affirm.wav"
+		"wave"		"radio_csco\ct_affirm.wav"
 }
 
 "seal.affirmative02"
@@ -12,7 +12,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_affirm.wav"
+		"wave"		"radio_csco\ct_affirm.wav"
 }
 
 "seal.affirmative03"
@@ -20,7 +20,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_affirm.wav"
+		"wave"		"radio_csco\ct_affirm.wav"
 }
 
 "seal.affirmative05"
@@ -28,7 +28,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "seal.affirmative06"
@@ -36,7 +36,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "seal.agree01"
@@ -44,7 +44,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "seal.agree02"
@@ -52,7 +52,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "seal.agree03"
@@ -60,7 +60,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "seal.agree05"
@@ -68,7 +68,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "seal.agree06"
@@ -76,7 +76,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\roger.wav"
+		"wave"		"radio_csco\roger.wav"
 }
 
 "seal.blinded01"
@@ -140,7 +140,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.bombtickingdown02"
@@ -148,7 +148,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.bombtickingdown03"
@@ -156,7 +156,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.bombtickingdown04"
@@ -164,7 +164,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.clearedarea01"
@@ -172,7 +172,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\clear.wav"
+		"wave"		"radio_csco\clear.wav"
 }
 
 "seal.clearedarea02"
@@ -180,7 +180,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\clear.wav"
+		"wave"		"radio_csco\clear.wav"
 }
 
 "seal.clearedarea03"
@@ -188,7 +188,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\clear.wav"
+		"wave"		"radio_csco\clear.wav"
 }
 
 "seal.clearedarea04"
@@ -196,7 +196,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\clear.wav"
+		"wave"		"radio_csco\clear.wav"
 }
 
 "seal.commanderdown01"
@@ -228,7 +228,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fireassis.wav"
+		"wave"		"radio_csco\fireassis.wav"
 }
 
 "seal.coveringfriend03"
@@ -236,7 +236,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fireassis.wav"
+		"wave"		"radio_csco\fireassis.wav"
 }
 
 "seal.coveringfriend05"
@@ -244,7 +244,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fireassis.wav"
+		"wave"		"radio_csco\fireassis.wav"
 }
 
 "seal.coverme01"
@@ -252,7 +252,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_coverme.wav"
+		"wave"		"radio_csco\ct_coverme.wav"
 }
 
 "seal.coverme02"
@@ -260,7 +260,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_coverme.wav"
+		"wave"		"radio_csco\ct_coverme.wav"
 }
 
 "seal.coverme03"
@@ -268,7 +268,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_coverme.wav"
+		"wave"		"radio_csco\ct_coverme.wav"
 }
 
 "seal.ct_bombexploding01"
@@ -276,7 +276,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.ct_bombexploding02"
@@ -284,7 +284,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.ct_bombexploding03"
@@ -292,7 +292,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.ct_bombexploding04"
@@ -300,7 +300,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.ct_bombexploding05"
@@ -308,7 +308,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.ct_bombexploding06"
@@ -316,7 +316,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.ct_bombexploding07"
@@ -324,7 +324,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.ct_bombexploding08"
@@ -332,7 +332,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.ct_bombexploding09"
@@ -340,7 +340,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.ct_death01"
@@ -388,7 +388,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_decoy02"
@@ -396,7 +396,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_decoy03"
@@ -404,7 +404,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_flashbang01"
@@ -412,7 +412,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_flashbang02"
@@ -420,7 +420,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_flashbang03"
@@ -428,7 +428,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_grenade01"
@@ -436,7 +436,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_grenade02"
@@ -444,7 +444,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_grenade03"
@@ -452,7 +452,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_grenade04"
@@ -460,7 +460,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_molotov01"
@@ -468,7 +468,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_molotov02"
@@ -476,7 +476,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_molotov03"
@@ -484,7 +484,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_smoke01"
@@ -492,7 +492,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_smoke02"
@@ -500,7 +500,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 "seal.ct_smoke03"
@@ -508,7 +508,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_fireinhole.wav"
+		"wave"		"radio_csco\ct_fireinhole.wav"
 }
 
 
@@ -557,7 +557,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "seal.disagree02"
@@ -565,7 +565,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "seal.disagree03"
@@ -573,7 +573,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "seal.disagree04"
@@ -581,7 +581,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "seal.disagree05"
@@ -589,7 +589,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "seal.enemydown01"
@@ -597,7 +597,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown02"
@@ -605,7 +605,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown03"
@@ -613,7 +613,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown04"
@@ -621,7 +621,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown05"
@@ -629,7 +629,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown06"
@@ -637,7 +637,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown07"
@@ -645,7 +645,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown08"
@@ -653,7 +653,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown09"
@@ -661,7 +661,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown10"
@@ -669,7 +669,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown11"
@@ -677,7 +677,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.enemydown12"
@@ -685,7 +685,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\enemydown.wav"
+		"wave"		"radio_csco\enemydown.wav"
 }
 
 "seal.followingfriend01"
@@ -693,7 +693,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\takepoint.wav"
+		"wave"		"radio_csco\takepoint.wav"
 }
 
 "seal.followingfriend02"
@@ -701,7 +701,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\takepoint.wav"
+		"wave"		"radio_csco\takepoint.wav"
 }
 
 "seal.followingfriend03"
@@ -709,7 +709,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\takepoint.wav"
+		"wave"		"radio_csco\takepoint.wav"
 }
 
 "seal.followingfriend04"
@@ -717,7 +717,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\takepoint.wav"
+		"wave"		"radio_csco\takepoint.wav"
 }
 
 "seal.friendlyfire01"
@@ -853,7 +853,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "seal.help02"
@@ -861,7 +861,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "seal.help03"
@@ -869,7 +869,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "seal.help04"
@@ -877,7 +877,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "seal.incombat01"
@@ -981,7 +981,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_inpos.wav"
+		"wave"		"radio_csco\ct_inpos.wav"
 }
 
 "seal.inposition02"
@@ -989,7 +989,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_inpos.wav"
+		"wave"		"radio_csco\ct_inpos.wav"
 }
 
 "seal.inposition04"
@@ -997,7 +997,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_inpos.wav"
+		"wave"		"radio_csco\ct_inpos.wav"
 }
 
 "seal.killedfriend01"
@@ -1141,7 +1141,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "seal.negative02"
@@ -1149,7 +1149,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "seal.negative03"
@@ -1157,7 +1157,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "seal.negative04"
@@ -1165,7 +1165,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "seal.niceshot01"
@@ -1357,7 +1357,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag02"
@@ -1365,7 +1365,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag03"
@@ -1373,7 +1373,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag04"
@@ -1381,7 +1381,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag05"
@@ -1389,7 +1389,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag06"
@@ -1397,7 +1397,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag07"
@@ -1405,7 +1405,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag08"
@@ -1413,7 +1413,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag09"
@@ -1421,7 +1421,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag10"
@@ -1429,7 +1429,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag11"
@@ -1437,7 +1437,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag12"
@@ -1445,7 +1445,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag13"
@@ -1453,7 +1453,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.onarollbrag14"
@@ -1461,7 +1461,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\stormfront.wav"
+		"wave"		"radio_csco\stormfront.wav"
 }
 
 "seal.oneenemyleft01"
@@ -1629,7 +1629,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "seal.radio_enemyspotted02"
@@ -1637,7 +1637,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "seal.radio_enemyspotted03"
@@ -1645,7 +1645,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "seal.radio_enemyspotted05"
@@ -1653,7 +1653,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "seal.radio_enemyspotted06"
@@ -1661,7 +1661,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "seal.radio_enemyspotted09"
@@ -1669,7 +1669,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "seal.radio_enemyspotted10"
@@ -1677,7 +1677,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "seal.radio_enemyspottedcount12"
@@ -1685,7 +1685,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_enemys.wav"
+		"wave"		"radio_csco\ct_enemys.wav"
 }
 
 "seal.radio_followme01"
@@ -1693,7 +1693,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "seal.radio_followme02"
@@ -1701,7 +1701,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "seal.radio_followme03"
@@ -1709,7 +1709,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "seal.radio_followme04"
@@ -1717,7 +1717,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "seal.radio_followme05"
@@ -1725,7 +1725,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\followme.wav"
+		"wave"		"radio_csco\followme.wav"
 }
 
 "seal.radio_letsgo01"
@@ -1733,7 +1733,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo02"
@@ -1741,7 +1741,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo03"
@@ -1749,7 +1749,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo04"
@@ -1757,7 +1757,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo05"
@@ -1765,7 +1765,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo06"
@@ -1773,7 +1773,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo07"
@@ -1781,7 +1781,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo08"
@@ -1789,7 +1789,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo09"
@@ -1797,7 +1797,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo10"
@@ -1805,7 +1805,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo11"
@@ -1813,7 +1813,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_letsgo12"
@@ -1821,7 +1821,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_locknload01"
@@ -1829,7 +1829,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\locknload.wav"
+		"wave"		"radio_csco\locknload.wav"
 }
 
 "seal.radio_locknload02"
@@ -1837,7 +1837,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\go.wav"
+		"wave"		"radio_csco\go.wav"
 }
 
 "seal.radio_locknload03"
@@ -1845,7 +1845,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_locknload04"
@@ -1853,7 +1853,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_locknload05"
@@ -1861,7 +1861,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\locknload.wav"
+		"wave"		"radio_csco\locknload.wav"
 }
 
 "seal.radio_locknload06"
@@ -1869,7 +1869,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\go.wav"
+		"wave"		"radio_csco\go.wav"
 }
 
 "seal.radio_locknload07"
@@ -1877,7 +1877,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_locknload08"
@@ -1885,7 +1885,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\locknload.wav"
+		"wave"		"radio_csco\locknload.wav"
 }
 
 "seal.radio_locknload09"
@@ -1893,7 +1893,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\go.wav"
+		"wave"		"radio_csco\go.wav"
 }
 
 "seal.radio_locknload10"
@@ -1901,7 +1901,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_locknload11"
@@ -1909,7 +1909,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\locknload.wav"
+		"wave"		"radio_csco\locknload.wav"
 }
 
 "seal.radio_locknload12"
@@ -1917,7 +1917,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\moveout.wav"
+		"wave"		"radio_csco\moveout.wav"
 }
 
 "seal.radio_locknload13"
@@ -1925,7 +1925,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\moveout.wav"
+		"wave"		"radio_csco\moveout.wav"
 }
 
 "seal.radio_locknload14"
@@ -1933,7 +1933,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\moveout.wav"
+		"wave"		"radio_csco\moveout.wav"
 }
 
 "seal.radio_locknload15"
@@ -1941,7 +1941,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\go.wav"
+		"wave"		"radio_csco\go.wav"
 }
 
 "seal.radio_locknload16"
@@ -1949,7 +1949,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_go.wav"
+		"wave"		"radio_csco\com_go.wav"
 }
 
 "seal.radio_locknload17"
@@ -1957,7 +1957,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\moveout.wav"
+		"wave"		"radio_csco\moveout.wav"
 }
 
 "seal.radio_needbackup01"
@@ -1965,7 +1965,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "seal.radio_needbackup02"
@@ -1973,7 +1973,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "seal.radio_needbackup03"
@@ -1981,7 +1981,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_backup.wav"
+		"wave"		"radio_csco\ct_backup.wav"
 }
 
 "seal.radio_takingfire01"
@@ -1989,7 +1989,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\hitassist.wav"
+		"wave"		"radio_csco\hitassist.wav"
 }
 
 "seal.radio_takingfire02"
@@ -1997,7 +1997,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\hitassist.wav"
+		"wave"		"radio_csco\hitassist.wav"
 }
 
 "seal.radio_takingfire03"
@@ -2005,7 +2005,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\hitassist.wav"
+		"wave"		"radio_csco\hitassist.wav"
 }
 
 "seal.radio_takingfire04"
@@ -2013,7 +2013,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\hitassist.wav"
+		"wave"		"radio_csco\hitassist.wav"
 }
 
 "seal.radio_takingfire05"
@@ -2021,7 +2021,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\hitassist.wav"
+		"wave"		"radio_csco\hitassist.wav"
 }
 
 "seal.radio_takingfire06"
@@ -2029,7 +2029,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\hitassist.wav"
+		"wave"		"radio_csco\hitassist.wav"
 }
 
 "seal.radio_takingfire07"
@@ -2037,7 +2037,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\hitassist.wav"
+		"wave"		"radio_csco\hitassist.wav"
 }
 
 "seal.radiobotendclean01"
@@ -2149,7 +2149,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\getout.wav"
+		"wave"		"radio_csco\getout.wav"
 }
 
 "seal.radiobotfallback02"
@@ -2157,7 +2157,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\getout.wav"
+		"wave"		"radio_csco\getout.wav"
 }
 
 "seal.radiobotfallback03"
@@ -2165,7 +2165,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fallback.wav"
+		"wave"		"radio_csco\fallback.wav"
 }
 
 "seal.radiobotfallback06"
@@ -2173,7 +2173,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fallback.wav"
+		"wave"		"radio_csco\fallback.wav"
 }
 
 "seal.radiobotfallback07"
@@ -2181,7 +2181,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\fallback.wav"
+		"wave"		"radio_csco\fallback.wav"
 }
 
 "seal.radiobothold01"
@@ -2189,7 +2189,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\position.wav"
+		"wave"		"radio_csco\position.wav"
 }
 
 "seal.radiobothold02"
@@ -2197,7 +2197,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\position.wav"
+		"wave"		"radio_csco\position.wav"
 }
 
 "seal.radiobothold03"
@@ -2205,7 +2205,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\position.wav"
+		"wave"		"radio_csco\position.wav"
 }
 
 "seal.radiobotregroup01"
@@ -2213,7 +2213,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\regroup.wav"
+		"wave"		"radio_csco\regroup.wav"
 }
 
 "seal.radiobotregroup02"
@@ -2221,7 +2221,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\regroup.wav"
+		"wave"		"radio_csco\regroup.wav"
 }
 
 "seal.radiobotregroup03"
@@ -2229,7 +2229,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\regroup.wav"
+		"wave"		"radio_csco\regroup.wav"
 }
 
 "seal.radiobotregroup04"
@@ -2237,7 +2237,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\regroup.wav"
+		"wave"		"radio_csco\regroup.wav"
 }
 
 "seal.radiobotregroup05"
@@ -2245,7 +2245,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\regroup.wav"
+		"wave"		"radio_csco\regroup.wav"
 }
 
 "seal.radiobotreponsenegative06"
@@ -2253,7 +2253,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\negative.wav"
+		"wave"		"radio_csco\negative.wav"
 }
 
 "seal.radiobottime01"
@@ -2261,7 +2261,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.radiobottime02"
@@ -2269,7 +2269,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\blow.wav"
+		"wave"		"radio_csco\blow.wav"
 }
 
 "seal.radiobottime03"
@@ -2277,7 +2277,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\getout.wav"
+		"wave"		"radio_csco\getout.wav"
 }
 
 "seal.radiobottime04"
@@ -2285,7 +2285,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\getout.wav"
+		"wave"		"radio_csco\getout.wav"
 }
 
 "seal.reportingin01"
@@ -2293,7 +2293,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_reportingin.wav"
+		"wave"		"radio_csco\ct_reportingin.wav"
 }
 
 "seal.reportingin02"
@@ -2301,7 +2301,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_reportingin.wav"
+		"wave"		"radio_csco\ct_reportingin.wav"
 }
 
 "seal.reportingin03"
@@ -2309,7 +2309,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\ct_reportingin.wav"
+		"wave"		"radio_csco\ct_reportingin.wav"
 }
 
 "seal.requestreport01"
@@ -2317,7 +2317,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_reportin.wav"
+		"wave"		"radio_csco\com_reportin.wav"
 }
 
 "seal.requestreport02"
@@ -2325,7 +2325,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_reportin.wav"
+		"wave"		"radio_csco\com_reportin.wav"
 }
 
 "seal.requestreport03"
@@ -2333,7 +2333,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_reportin.wav"
+		"wave"		"radio_csco\com_reportin.wav"
 }
 
 "seal.scaredemote01"
@@ -2509,7 +2509,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_getinpos.wav"
+		"wave"		"radio_csco\com_getinpos.wav"
 }
 
 "seal.thanks02"
@@ -2517,7 +2517,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_getinpos.wav"
+		"wave"		"radio_csco\com_getinpos.wav"
 }
 
 "seal.thanks03"
@@ -2525,7 +2525,7 @@
 		"channel"		"CHAN_STATIC"
 		"volume"	"1"
 		"soundlevel" "0"
-		"wave"		"radio\com_getinpos.wav"
+		"wave"		"radio_csco\com_getinpos.wav"
 }
 
 "seal.theypickedupthebomb01"

@@ -5194,9 +5194,7 @@
 			// {
 				// "terrorists"		"1"
 			// }
-		// }
-		
-		
+		// }		
 	}
 	"attributes"
 	{
@@ -5842,17 +5840,8 @@
 		}
 		"76"
 		{
-			"name"		"postpone fire"
-			"attribute_class"		"postpone_fire"
-			"description_format"		"value_is_additive"
-			"hidden"		"1"
-			"effect_type"		"neutral"
-			"stored_as_integer"		"1"
-		}
-		"77"
-		{
-			"name"		"has bullet altfire"
-			"attribute_class"		"has_bullet_altfire"
+			"name"		"is revolver"
+			"attribute_class"		"is_revolver"
 			"description_format"		"value_is_additive"
 			"hidden"		"1"
 			"effect_type"		"neutral"
@@ -6930,21 +6919,109 @@
 			"effect_type"		"positive"
 			"stored_as_integer"		"1"
 		}
-		
-		
-		
-		"350"
+		"224"
 		{
-			"name"		"is revolver"
-			"attribute_class"		"is_revolver"
+			"name"		"campaign 7 completion bitfield"
+			"attribute_class"		"campaign_completion_bitfield"
 			"description_format"		"value_is_additive"
 			"hidden"		"1"
 			"effect_type"		"neutral"
 			"stored_as_integer"		"1"
 		}
-		
-		
-		
+		"225"
+		{
+			"name"		"campaign 7 last completed quest"
+			"attribute_class"		"campaign_last_completed_quest"
+			"description_format"		"value_is_additive"
+			"hidden"		"1"
+			"effect_type"		"neutral"
+			"stored_as_integer"		"1"
+		}
+		"226"
+		{
+			"name"		"campaign 8 completion bitfield"
+			"attribute_class"		"campaign_completion_bitfield"
+			"description_format"		"value_is_additive"
+			"hidden"		"1"
+			"effect_type"		"neutral"
+			"stored_as_integer"		"1"
+		}
+		"227"
+		{
+			"name"		"campaign 8 last completed quest"
+			"attribute_class"		"campaign_last_completed_quest"
+			"description_format"		"value_is_additive"
+			"hidden"		"1"
+			"effect_type"		"neutral"
+			"stored_as_integer"		"1"
+		}
+		"228"
+		{
+			"name"		"recovery time crouch final"
+			"attribute_class"		"recovery_time_crouch_final"
+			"description_format"		"value_is_additive"
+			"hidden"		"1"
+			"effect_type"		"neutral"
+			"attribute_type"		"float"
+		}
+		"229"
+		{
+			"name"		"recovery time stand final"
+			"attribute_class"		"recovery_time_stand_final"
+			"description_format"		"value_is_additive"
+			"hidden"		"1"
+			"effect_type"		"neutral"
+			"attribute_type"		"float"
+		}
+		"230"
+		{
+			"name"		"recovery transition start bullet"
+			"attribute_class"		"recovery_transition_start_bullet"
+			"description_format"		"value_is_additive"
+			"hidden"		"1"
+			"effect_type"		"neutral"
+			"stored_as_integer"		"1"
+		}
+		"231"
+		{
+			"name"		"recovery transition end bullet"
+			"attribute_class"		"recovery_transition_end_bullet"
+			"description_format"		"value_is_additive"
+			"hidden"		"1"
+			"effect_type"		"neutral"
+			"stored_as_integer"		"1"
+		}
+		"232"
+		{
+			"name"		"sprays remaining"
+			"attribute_class"		"sprays_remaining"
+			"description_format"		"value_is_additive"
+			"description_string"		"#Attrib_SpraysRemaining"
+			"hidden"		"0"
+			"effect_type"		"positive"
+			"stored_as_integer"		"1"
+			"score"		"8500"
+		}
+		"233"
+		{
+			"name"		"spray tint id"
+			"attribute_class"		"spray_tint_id"
+			"description_format"		"value_is_additive"
+			"description_string"		"#Attrib_SprayTintID"
+			"hidden"		"1"
+			"effect_type"		"positive"
+			"stored_as_integer"		"1"
+			"score"		"8500"
+		}
+		"234"
+		{
+			"name"		"inaccuracy jump initial"
+			"attribute_class"		"inaccuracy_jump_initial"
+			"description_format"		"value_is_additive"
+			"hidden"		"1"
+			"effect_type"		"neutral"
+			"attribute_type"		"float"
+		}
 	}
 	"sticker_kits"
 	{

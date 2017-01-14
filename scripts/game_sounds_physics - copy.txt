@@ -115,9 +115,9 @@
 
 "Default.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
+	"soundlevel"  		"SNDLVL_70dB"
 	"pitch"			"PITCH_NORM"
-	"volume"		".5"
+	"volume"		"1"
 	"rndwave"
 	{
 		"wave"		"rics\ric1.wav"
@@ -318,9 +318,9 @@
 
 "SolidMetal.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
+	"soundlevel"  		"SNDLVL_70dB"
 	"pitch"			"PITCH_NORM"
-	"volume"		"0.7"
+	"volume"		"1"
 	"rndwave"
 	{
 		"wave"	"rics/ric1.wav"
@@ -569,8 +569,8 @@
 
 "Dirt.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -814,8 +814,8 @@
 
 "MetalGrate.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.5"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -972,8 +972,8 @@
 
 "Tile.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -1541,8 +1541,8 @@
 
 "Computer.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -1622,8 +1622,8 @@
 
 "WeaponMagazine.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.6"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -1715,8 +1715,8 @@
 
 "Concrete.BulletImpact"
 {
-	"soundlevel"  	"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  	"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -2331,8 +2331,8 @@
 
 "Carpet.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -2429,8 +2429,8 @@
 
 "Sand.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -2475,8 +2475,8 @@
 
 "Watermelon.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -2512,8 +2512,8 @@
 
 "ArmorFlesh.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -2795,8 +2795,8 @@
 
 "Metal_Barrel.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -2874,8 +2874,8 @@
 
 "Popcan.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -3037,7 +3037,7 @@
 
 "ceiling_tile.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
+	"soundlevel"  		"SNDLVL_70dB"
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -3212,7 +3212,7 @@
 
 "SandBarrel.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
+	"soundlevel"  		"SNDLVL_70dB"
 	"volume"		"1.0"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
@@ -3643,7 +3643,7 @@
 "Cardboard.BulletImpact"
 {
 	"channel"		"CHAN_BODY"
-	"soundlevel"  		"SNDLVL_NORM"
+	"soundlevel"  		"SNDLVL_70dB"
 	"pitch"		"PITCH_NORM"
 	"volume"	"1.0"
 	"rndwave"
@@ -3826,7 +3826,7 @@
 "Plastic_Barrel.BulletImpact"
 {
 	"channel"		"CHAN_BODY"
-	"soundlevel"  		"SNDLVL_NORM"
+	"soundlevel"  		"SNDLVL_70dB"
 	"pitch"		"96,104"
 	"volume"	"1.0"
 	"rndwave"
@@ -4007,7 +4007,7 @@
 "Plastic_Box.BulletImpact"
 {
 	"channel"		"CHAN_BODY"
-	"soundlevel"  		"SNDLVL_NORM"
+	"soundlevel"  		"SNDLVL_70dB"
 	"pitch"		"96,104"
 	"volume"	"1.0"
 	"rndwave"
@@ -4219,7 +4219,7 @@
 "Rubber_Tire.BulletImpact"
 {
 	"channel"		"CHAN_BODY"
-	"soundlevel"  		"SNDLVL_NORM"
+	"soundlevel"  		"SNDLVL_70dB"
 	"pitch"		"96,104"
 	"volume"	"1.0"
 	"rndwave"
@@ -4431,8 +4431,8 @@
 
 "Wood.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -4592,8 +4592,8 @@
 
 "Wood_Box.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -4823,8 +4823,8 @@
 
 "Wood_Plank.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -4928,8 +4928,8 @@
 
 "Wood_Solid.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -5127,8 +5127,8 @@
 
 "Wood_Panel.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -5287,8 +5287,8 @@
 
 "Metal_Box.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
@@ -5467,8 +5467,8 @@
 
 "weapon.BulletImpact"
 {
-	"soundlevel"  		"SNDLVL_NORM"
-	"volume"		"0.7"
+	"soundlevel"  		"SNDLVL_70dB"
+	"volume"		"1"
 	"pitch"			"PITCH_NORM"
 	"rndwave"
 	{
