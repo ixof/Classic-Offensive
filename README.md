@@ -8,5 +8,5 @@ If you want to report a bug you found create a new issue at https://github.com/C
 
 
 <a href="http://www.moddb.com/mods/counter-strike-classic-offensive/images/csco-wallpaper" title="Wallpaper - Mod DB" target="_blank"><img src="http://media.moddb.com/cache/images/mods/1/31/30832/thumb_620x2000/classiclogo.1.png" alt="Wallpaper" width="100%" height="100%"/></a>
-
+-
 <a href="http://steamsignature.com"><img src="http://steamsignature.com/profile/english/76561197990390018.png" alt="" title="" /></a> <a href="http://steamsignature.com"><img src="http://steamsignature.com/profile/english/76561198236170674.png" alt="" title="" /></a>
